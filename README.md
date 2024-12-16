@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00c19c&height=150&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=red&height=80&section=header"/>
 
 <img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=welcome+to+my+github+profile%2C+I'm+Yusef+Gonzalez" alt="Typing SVG" />
 
