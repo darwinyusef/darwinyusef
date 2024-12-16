@@ -55,14 +55,11 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=wordpress"/>
  </p>
 
-
-
-
-<h3>Herramientas</h3>
+<h3>Otras Herramientas</h3>
 <p>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=aws"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=obsidian"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=notion"/>
@@ -80,32 +77,19 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
 
 <h3> Tools Graphic Designe </h3>
 <p>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ubuntu"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=apple"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ai"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ps"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ae"/>
 </p>
 
 
-
-<h3>Sistemas Operativos</h3>
-<p>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ubuntu"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=apple"/>
-</p>
 
 ### 🌱 Actualmente estoy aprendiendo
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python: Fundamentos basico de programacion Basico - Avanzando
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML y ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS: Fundamentos del desarrollo web
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript: Añadiendo interactividad a mis páginas web
-- ![NodeJS](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) NodeJS: Creacion de API REST
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&lColor=white) Java: creando programas de inventario de escritorio
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) Control de versiones con Git
-- ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=white) Mysql: Diseño de bases de datos
-- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) Android: primera aplicacion movil de supermercado en Jaa
+- ![Golang](https://img.shields.io/badge/Golang-v1.21-blue?logo=go&style=flat)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&lColor=white) Java SprintBoot
+- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) Android 
 
 ### 🚀 Mis Primeros Proyectos
 
@@ -145,9 +129,6 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
 > <a href="https://www.linkedin.com/in/jnssanrcg/" target="_blank"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/></a> 
 > <a href="mailto:juan0096150@gmail.com"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/> </a>
 
-### 🌟 Cita Favorita
-
-> "El único modo de hacer un gran trabajo es amar lo que haces" - Steve Jobs
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c19c&height=120&section=footer"/>
