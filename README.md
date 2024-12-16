@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=red&height=80&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=990F02&height=80&section=header"/>
 
-<img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=welcome+to+my+github+profile%2C+I'm+Yusef+Gonzalez" alt="Typing SVG" />
+<img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=Welcome+to+my+github+profile%2C+I'm+Yusef+Gonzalez" alt="Typing SVG" />
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width=100%>
 
