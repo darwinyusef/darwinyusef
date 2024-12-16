@@ -5,7 +5,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width=100%>
 
 ## Desarrollador Fullstack de Software  **(Architech AI software for the future )**
-Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de experiencia en desarrollo de aplicaciones web y con casi dos años de amplitud técnica en todo lo que respecta a la arquitectura de software, especializándome en soluciones de tipo busisness y actualmente en inteligencia artificial. poco a poco he ido evolucionando hacia roles técnicos avanzados que combinan creatividad y estrategia tecnológica.
+Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de experiencia en desarrollo de aplicaciones web y con casi dos años de amplitud técnica en todo lo que respecta a la arquitectura de software, especializándome en soliciones del lado del cliente y integrando herramientas de inteligencia artificial a los proyectos. Poco a poco he ido evolucionando hacia roles técnicos avanzados que combinan creatividad y estrategia tecnológica.
 
 Desde 2006 he desarrollado habilidades de liderazgo y comunicación a través de la docencia, no solo capacitando a nuevos programadores sino en la creación de contenido online y la transformación digital de las empresas. convirtiendome en un promotor (evangelista de codigo y TI), promuevo buenas prácticas, estándares de calidad y herramientas innovadoras, fomentando la colaboración y el aprendizaje continuo en equipos y comunidades técnicas.
 
