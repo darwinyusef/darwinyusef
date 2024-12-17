@@ -43,6 +43,8 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
  <p>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=angular"/>
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=rxjs"/>
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=redux"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwind"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nextjs"/>
