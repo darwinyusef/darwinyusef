@@ -8,7 +8,7 @@ Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de expe
 
 Desde 2006 he desarrollado habilidades de liderazgo y comunicación a través de la docencia, no solo capacitando a nuevos programadores sino en la creación de contenido online y la transformación digital de las empresas. convirtiendome en un promotor (evangelista de codigo y TI), promuevo buenas prácticas, estándares de calidad y herramientas innovadoras, fomentando la colaboración y el aprendizaje continuo en equipos y comunidades técnicas.
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/5Bl4wnQs5QI?si=tfAsLEO_1e6rjdQx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Puedes seguirme en mi canal [@Aquicreamos Youtube](https://www.youtube.com/watch?v=5Bl4wnQs5QI)
 
 Mi objetivo es consolidarme como arquitecto de software integrando la IA, liderando la creación de sistemas innovadores y escalables que transformen digitalmente a las organizaciones. Aspiro a diseñar arquitecturas que integren inteligencia artificial para resolver problemas complejos, automatizar procesos y anticipar las necesidades futuras del mercado, todo ello bajo un enfoque ético y sostenible. Estoy listo para aportar mi experiencia y visión en el diseño de soluciones disruptivas y de alto impacto.
  
