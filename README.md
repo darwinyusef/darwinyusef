@@ -87,15 +87,24 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
 
 
 
-### 🌱 Actualmente estoy aprendiendo
-# 🚀 Foco en mi crecimiento 
+# 🌱 Actualmente estoy aprendiendo
+
+### 🚀 **Foco en mi crecimiento**
+Actualmente me estoy enfocando en estas 3 áreas de desarrollo de software con el objetivo de ser Arquitecto de IA
+
 ![IA Developer](https://img.shields.io/badge/IA_Developer-Expanding-gold?logo=robot&style=plastic) ![Arquitectura de software](https://img.shields.io/badge/Arquitectura_Software-Amplitud_Técnica-teal?logo=aws&style=plastic)  ![Desarrollo Mobile](https://img.shields.io/badge/Mobile-Learning-green?logo=robot&style=plastic)
 
-## 🌟 **Bases de crecimiento**
-![Kotlin](https://img.shields.io/badge/Kotlin-Exploring-purple?logo=kotlin&style=flat) ![Android](https://img.shields.io/badge/Android-Learning-green?logo=android&style=flat) ![Java SpringBoot](https://img.shields.io/badge/JavaSpringBoot-Learning-orange?logo=spring&style=flat) ![Java SpringBoot](https://img.shields.io/badge/JavaSecurity-Learning-blue?logo=spring&style=flat) ![Golang GIN REST](https://img.shields.io/badge/Golang_GIN-Framework-green?logo=go&style=flat) ![Golang Architecture](https://img.shields.io/badge/Golang-Design_Patterns-lightblue?logo=go&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-updated-blue?logo=typescript&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-Desingn_patterns-blue?logo=typescript&style=flat)
+### 🤞🏼 Amplitud Técnica en Arquitectura de Software
+Literal me enrole en la academia y actualmente estoy haciendo una amplitud técnica mientras no dejo de programar y desarrollar contenido
 
-## 🌟 **Inteligencia Artificial y Aprendizaje Automático**
-![AI Generative](https://img.shields.io/badge/Generative-IA-yellow?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Analitycs-Data-blueviolet?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Visualization-Data-blueviolet?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Data_visualization-PowerBi-yellow?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-blueviolet?logo=python&style=for-the-badge) ![Golang IA Integration](https://img.shields.io/badge/Golang_IA_Integration-purple?logo=go&style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers-blue?logo=huggingface&style=for-the-badge) ![DevOps with AWS](https://img.shields.io/badge/DevOps_with_AWS-cloud?logo=linux&style=for-the-badge)  ![AWS Services](https://img.shields.io/badge/AWS_Services-black?logo=linux&style=for-the-badge)  ![Testing Frontend](https://img.shields.io/badge/Frontend-Testing-darkgreen?logo=jest&style=for-the-badge) ![Testing Backend](https://img.shields.io/badge/Backend-Testing-darkgreen?logo=jest&style=for-the-badge) ![Agents](https://img.shields.io/badge/Agents-AI-yellow?logo=python&style=for-the-badge) ![Assistants](https://img.shields.io/badge/Assistants-IA-yellow?logo=python&style=for-the-badge)
+![Java SpringBoot](https://img.shields.io/badge/JavaSpringBoot-Learning-orange?logo=spring&style=flat) ![Java SpringBoot](https://img.shields.io/badge/JavaSecurity-Learning-blue?logo=spring&style=flat) ![Golang GIN REST](https://img.shields.io/badge/Golang_GIN-Framework-green?logo=go&style=flat) ![Golang Architecture](https://img.shields.io/badge/Golang-Design_Patterns-lightblue?logo=go&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-updated-blue?logo=typescript&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-Desingn_patterns-blue?logo=typescript&style=flat) ![Testing Frontend](https://img.shields.io/badge/Frontend-Testing-darkgreen?logo=jest&style=flat) ![Testing Backend](https://img.shields.io/badge/Backend-Testing-darkgreen?logo=jest&style=flat) ![DevOps with AWS](https://img.shields.io/badge/DevOps_with-AWS_cloud?logo=linux&style=flat)  ![AWS Services](https://img.shields.io/badge/AWS_Services-AWS_cloud-black?logo=linux&style=flat)   
+
+### 📱 Desarrollo de Aplicaciones Mobile
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Exploring-purple?logo=kotlin&style=flat) ![Android](https://img.shields.io/badge/Android-Learning-green?logo=android&style=flat)
+
+### 🧸 Inteligencia Artificial y Aprendizaje Automático
+![AI Generative](https://img.shields.io/badge/Generative-IA-yellow?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Analitycs-Data-blueviolet?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Visualization-Data-blueviolet?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Data_visualization-PowerBi-yellow?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-blueviolet?logo=python&style=for-the-badge) ![Python - IA Integration](https://img.shields.io/badge/IA_Integration-Python-purple?logo=python&style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers-blue?logo=huggingface&style=for-the-badge) ![Agents](https://img.shields.io/badge/Agents-AI-yellow?logo=python&style=for-the-badge) ![Assistants](https://img.shields.io/badge/Assistants-IA-yellow?logo=python&style=for-the-badge)
 
 ---
 
