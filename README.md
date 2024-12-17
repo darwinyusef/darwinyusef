@@ -4,7 +4,7 @@
 
 
 ## Desarrollador Fullstack de Software  **(Architech AI software for the future )**
-Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de experiencia en desarrollo de aplicaciones web y con casi dos años de amplitud técnica en todo lo que respecta a la arquitectura de software, especializándome en soliciones del lado del cliente y integrando herramientas de inteligencia artificial a los proyectos. Poco a poco he ido evolucionando hacia roles técnicos avanzados que combinan creatividad y estrategia tecnológica.
+Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de experiencia en desarrollo de aplicaciones web y con casi dos años de amplitud técnica en todo lo que respecta a la arquitectura de software, especializándome en soliciones del lado del cliente e integrando herramientas de inteligencia artificial a los proyectos. Poco a poco he ido evolucionando hacia roles técnicos mas avanzados que combinan creatividad y estrategia tecnológica en todo el ciclo de vida del software.
 
 Desde 2006 he desarrollado habilidades de liderazgo y comunicación a través de la docencia, no solo capacitando a nuevos programadores sino en la creación de contenido online y la transformación digital de las empresas. convirtiendome en un promotor (evangelista de codigo y TI), promuevo buenas prácticas, estándares de calidad y herramientas innovadoras, fomentando la colaboración y el aprendizaje continuo en equipos y comunidades técnicas.
 
@@ -86,9 +86,6 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
 </p>
 
 
-
-
-
 # 🌱 Actualmente estoy aprendiendo
 
 ### 🚀 **Foco en mi crecimiento**
@@ -117,6 +114,15 @@ Literal me enrole en la academia y actualmente estoy haciendo una amplitud técn
 
 ### 📚 Educación
 
+### 🏆 Metas 
+Este año 2025 tendre estas metas 
+- [ ] Desarrollar un Sistema de Blogs para apoyar a la comunidad y de paso generar multiples laboratorios de IA en linea
+- [ ] Ser más visible en redes sociales como Arquitecto lider de software a través de la comunidad
+- [ ] Desarrollar en cada lenguaje de programación que conozco las distintas formas de arquitecturas  y los patrones de diseño posibles creando contenido online
+- [ ] Crear mi propio sistema de Entrenamiento con IA para desarrolladores
+- [ ] Poder integrar a cabalidad multitud de herramientas de IA a mis proyectos
+- [ ] Poder finalizar mi especialización en IA e iniciar con la maestria
+- [ ] Aumentar mis ingresos actuales enrolandome en una excelente empresa
 
 > [!NOTE]
 > <h3>Contacto</h3>
