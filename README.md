@@ -14,20 +14,20 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
  
  <h3> Backend programming languages </h3>
  <p>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/> |
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/> | 
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/> | 
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>
  </p>
 
  <h3> Frameworks Backend i Use </h3>
  <p>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=laravel"/> |
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=fastapi"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/> |
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nest"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=express"/>
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=express"/> | 
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=laravel"/>
  </p>
  
  <h3> Frontend programming languages </h3>
@@ -72,9 +72,11 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sqlite"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=dynamodb"/>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=firebase"/>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=appwrite"/>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=supabase"/>
+ 
 </p>
 
 <h3> Graphic Design Tools </h3>
@@ -128,7 +130,8 @@ Este año 2025 tendre estas metas
 > [!NOTE]
 > <h3>Contacto</h3>
 <a href="https://github.com/darwinyusef"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/></a> 
-<a href="https://www.linkedin.com/in/jnssanrcg/" target="_blank"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/></a> 
+<a href="https://github.com/darwinyusef"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/></a> 
+<a href="https://www.linkedin.com/in/darwinyusef/" target="_blank"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/></a> 
 <a href="https://www.darwinyusef.com" target="_blank"><img height="48px" width="48px" alt="Icone Darwin Yusef Web Page" src="https://skillicons.dev/icons?i=react"/></a> 
 <a href="mailto:wsgestor@gmail.com"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/> </a>
 
