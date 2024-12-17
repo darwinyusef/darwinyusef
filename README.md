@@ -12,19 +12,18 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
  
  <h3> Backend programming languages </h3>
  <p>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>-
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>-
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/> |
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/> | 
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>
  </p>
 
  <h3> Frameworks Backend i Use </h3>
  <p>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=laravel"/>-
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=laravel"/> |
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=fastapi"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/>-
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/> |
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nest"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=express"/>
  </p>
@@ -45,12 +44,12 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwind"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nextjs"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=astro"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=md"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=styledcomponents"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=materialui"/>
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=wordpress"/>
  </p>
 
