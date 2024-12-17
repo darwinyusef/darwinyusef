@@ -123,6 +123,7 @@ Este año 2025 tendre estas metas
 - [ ] Poder integrar a cabalidad multitud de herramientas de IA a mis proyectos
 - [ ] Poder finalizar mi especialización en IA e iniciar con la maestria
 - [ ] Aumentar mis ingresos actuales enrolandome en una excelente empresa
+- [ ] Desarrollar varias aplicaciones en entornos mobiles
 
 > [!NOTE]
 > <h3>Contacto</h3>
