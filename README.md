@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=990F02&height=80&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=header"/>
 
 <img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=Welcome+to+my+github+profile%2C+I'm+Yusef+Gonzalez" alt="Typing SVG" />
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width=100%>
 
 ## Desarrollador Fullstack de Software  **(Architech AI software for the future )**
 Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de experiencia en desarrollo de aplicaciones web y con casi dos años de amplitud técnica en todo lo que respecta a la arquitectura de software, especializándome en soliciones del lado del cliente y integrando herramientas de inteligencia artificial a los proyectos. Poco a poco he ido evolucionando hacia roles técnicos avanzados que combinan creatividad y estrategia tecnológica.
@@ -55,9 +54,11 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=wordpress"/>
  </p>
 
-<h3>Otras Herramientas</h3>
+<h3>Others Tools</h3>
 <p>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
+ <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
+ <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bitbucket"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=aws"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>
@@ -65,7 +66,7 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=notion"/>
 </p>
 
-<h3> Bases de datos </h3>
+<h3> Data Bases </h3>
 <p>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>
@@ -75,7 +76,7 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=supabase"/>
 </p>
 
-<h3> Tools Graphic Designe </h3>
+<h3> Graphic Design Tools </h3>
 <p>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ai"/>
    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ps"/>
@@ -85,50 +86,33 @@ Mi objetivo es consolidarme como arquitecto de software integrando la IA, lidera
 
 
 
+
+
 ### 🌱 Actualmente estoy aprendiendo
+# 🚀 Foco en mi crecimiento 
+![IA Developer](https://img.shields.io/badge/IA_Developer-Expanding-gold?logo=robot&style=plastic) ![Arquitectura de software](https://img.shields.io/badge/Arquitectura_Software-Amplitud_Técnica-teal?logo=aws&style=plastic)  ![Desarrollo Mobile](https://img.shields.io/badge/Mobile-Learning-green?logo=robot&style=plastic)
 
-- ![Golang](https://img.shields.io/badge/Golang-v1.21-blue?logo=go&style=flat)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&lColor=white) Java SprintBoot
-- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) Android 
+## 🌟 **Bases de crecimiento**
+![Kotlin](https://img.shields.io/badge/Kotlin-Exploring-purple?logo=kotlin&style=flat) ![Android](https://img.shields.io/badge/Android-Learning-green?logo=android&style=flat) ![Java SpringBoot](https://img.shields.io/badge/JavaSpringBoot-Learning-orange?logo=spring&style=flat) ![Java SpringBoot](https://img.shields.io/badge/JavaSecurity-Learning-blue?logo=spring&style=flat) ![Golang GIN REST](https://img.shields.io/badge/Golang_GIN-Framework-green?logo=go&style=flat) ![Golang Architecture](https://img.shields.io/badge/Golang-Design_Patterns-lightblue?logo=go&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-updated-blue?logo=typescript&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-Desingn_patterns-blue?logo=typescript&style=flat)
 
-### 🚀 Mis Primeros Proyectos
+## 🌟 **Inteligencia Artificial y Aprendizaje Automático**
+![AI Generative](https://img.shields.io/badge/Generative-IA-yellow?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Analitycs-Data-blueviolet?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Visualization-Data-blueviolet?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Data_visualization-PowerBi-yellow?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-blueviolet?logo=python&style=for-the-badge) ![Golang IA Integration](https://img.shields.io/badge/Golang_IA_Integration-purple?logo=go&style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers-blue?logo=huggingface&style=for-the-badge) ![DevOps with AWS](https://img.shields.io/badge/DevOps_with_AWS-cloud?logo=linux&style=for-the-badge)  ![AWS Services](https://img.shields.io/badge/AWS_Services-black?logo=linux&style=for-the-badge)  ![Testing Frontend](https://img.shields.io/badge/Frontend-Testing-darkgreen?logo=jest&style=for-the-badge) ![Testing Backend](https://img.shields.io/badge/Backend-Testing-darkgreen?logo=jest&style=for-the-badge) ![Agents](https://img.shields.io/badge/Agents-AI-yellow?logo=python&style=for-the-badge) ![Assistants](https://img.shields.io/badge/Assistants-IA-yellow?logo=python&style=for-the-badge)
 
-<img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+---
 
-1. *Mi Portafolio Personal*
+### ¡Siguiendo este camino, pronto dominaré todos estos temas! ✨
+ 
 
-   - Una página web simple para mostrar mis proyectos
-   - Tecnologías: HTML, CSS y JavaScript
-   - [Enlace al Repositorio](https://github.com/juan0096150/portafolio.git)
-
-2. *Extension de Notas y Recordatorio*
-
-   - Mi primer proyecto de extension
-   - crub de notas y recordatorio
-   - [Enlace al Repositorio](https://github.com/juan0096150/extension-notas.git)
-
-3. *API REST*
-   - Una api rest de usuarios
-   - Tecnologías: Nodejs
-   - [Enlace al Repositorio](https://github.com/juan0096150/ms_backend_user.git)
+### 🚀 Últimos Proyectos
 
 ### 📚 Educación
-
-- Estudiante de Analisis y Desarrollo Software en Servicio Nacional del Aprendizaje
-- Cursos:
-  - "DESARROLLO DE HABILIDADES COGNITIVAS PARA EL PENSAMIENTO LOGICO-MATEMATICO" en el Sena
-  - "FUNDAMENTOS BASICOS EN PROGRAMACIÓN JAVA" en el Sena
-  - "PROGRAMACION DE FORMULARIOS EN JAVA UTILIZANDO ENTORNOS INTEGRADOS DE DESARROLLO" en el Sena
-  - "CONSTRUCCION DE BASES DE DATOS CON MYSQL" en el Sena
-
 
 
 > [!NOTE]
 > <h3>Contacto</h3>
-> <a href="https://github.com/juan0096150/juan0096150/"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/></a> 
-> <a href="https://www.linkedin.com/in/jnssanrcg/" target="_blank"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/></a> 
-> <a href="mailto:juan0096150@gmail.com"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/> </a>
+<a href="https://github.com/darwinyusef"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/></a> 
+<a href="https://www.linkedin.com/in/jnssanrcg/" target="_blank"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/></a> 
+<a href="https://www.darwinyusef.com" target="_blank"><img height="48px" width="48px" alt="Icone Darwin Yusef Web Page" src="https://skillicons.dev/icons?i=react"/></a> 
+<a href="mailto:wsgestor@gmail.com"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/> </a>
 
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c19c&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"/>
