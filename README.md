@@ -8,7 +8,7 @@ Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de expe
 
 Mi objetivo es consolidarme como arquitecto de software integrando la IA, liderando la creación de sistemas innovadores y escalables que transformen digitalmente a las organizaciones. Aspiro a diseñar arquitecturas que integren inteligencia artificial para resolver problemas complejos, automatizar procesos y anticipar las necesidades futuras del mercado, todo ello bajo un enfoque ético y sostenible. Estoy listo para aportar mi experiencia y visión en el diseño de soluciones disruptivas y de alto impacto.
 
-> Te cuento tambien un poco de mi rol como creador de contenidos
+> Te cuento tambien un poco de mi rol como [Creador de contenidos](https://github.com/darwinyusef/darwinyusef/blob/master/CreadordeContenidos.md)
  
  <h3> Backend programming languages </h3>
  <p>
