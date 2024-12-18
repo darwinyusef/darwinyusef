@@ -122,8 +122,7 @@ Literal me enrole en la academia y actualmente estoy haciendo una amplitud técn
 
 ### 📚 Educación
 
-### 🏆 Metas 
-[[Metas2025]]
+### 🏆 Metas [Metas2025](https://github.com/darwinyusef/darwinyusef/blob/master/PublicasMetas2025.md)
 
 > [!NOTE]
 > <h3>Contacto</h3>
