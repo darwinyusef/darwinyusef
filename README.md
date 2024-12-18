@@ -124,10 +124,9 @@ Literal me enrole en la academia y actualmente estoy haciendo una amplitud técn
 
 ### 🏆 [Metas en 2025](https://github.com/darwinyusef/darwinyusef/blob/master/PublicasMetas2025.md)
 
-> [!NOTE]
-> <h3>Contacto</h3>
+<h3>Contacto</h3>
 <a href="https://github.com/darwinyusef"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/></a> 
-<a href="https://github.com/darwinyusef"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/></a> 
+<a href="https://instagram/darwinyusef"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=instagram"/></a> 
 <a href="https://www.linkedin.com/in/darwinyusef/" target="_blank"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linkedin"/></a> 
 <a href="https://www.darwinyusef.com" target="_blank"><img height="48px" width="48px" alt="Icone Darwin Yusef Web Page" src="https://skillicons.dev/icons?i=react"/></a> 
 <a href="mailto:wsgestor@gmail.com"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/> </a>
