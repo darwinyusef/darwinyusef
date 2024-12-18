@@ -1,4 +1,7 @@
+[<img width="15px" src="https://raw.githubusercontent.com/lipis/flag-icons/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/us.svg"/>](https://github.com/lipis/flag-icons/blob/main/flags/4x3/us.svg ) | [<img width="15px" src="https://raw.githubusercontent.com/lipis/flag-icons/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/co.svg"/>](https://github.com/lipis/flag-icons/blob/main/flags/4x3/co.svg)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=header"/>
+
 
 <img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=Welcome+to+my+github+profile%2C+I'm+Yusef+Gonzalez" alt="Typing SVG" />
 
