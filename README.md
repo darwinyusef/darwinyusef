@@ -105,14 +105,26 @@ Actualmente me estoy enfocando en estas 3 áreas de desarrollo de software con e
 ### 🤞🏼 Amplitud Técnica en Arquitectura de Software
 Literal me enrole en la academia y actualmente estoy haciendo una amplitud técnica mientras no dejo de programar y desarrollar contenido
 
-![Java SpringBoot](https://img.shields.io/badge/JavaSpringBoot-Learning-orange?logo=spring&style=flat) ![Java SpringBoot](https://img.shields.io/badge/JavaSecurity-Learning-blue?logo=spring&style=flat) ![Golang GIN REST](https://img.shields.io/badge/Golang_GIN-Framework-green?logo=go&style=flat) ![Golang Architecture](https://img.shields.io/badge/Golang-Design_Patterns-lightblue?logo=go&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-updated-blue?logo=typescript&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-Desingn_patterns-blue?logo=typescript&style=flat) ![Testing Frontend](https://img.shields.io/badge/Frontend-Testing-darkgreen?logo=jest&style=flat) ![Testing Backend](https://img.shields.io/badge/Backend-Testing-darkgreen?logo=jest&style=flat) ![DevOps with AWS](https://img.shields.io/badge/DevOps_with-AWS_cloud?logo=linux&style=flat)  ![AWS Services](https://img.shields.io/badge/AWS_Services-AWS_cloud-black?logo=linux&style=flat)   
+![Java SpringBoot](https://img.shields.io/badge/JavaSpringBoot-Learning-orange?logo=spring&style=flat) 
+![Java SpringBoot](https://img.shields.io/badge/JavaSecurity-Learning-blue?logo=spring&style=flat) 
+![Golang FRAMEWORK REST](https://img.shields.io/badge/Golang_GIN-Framework-green?logo=go&style=flat) 
+![Golang Architecture](https://img.shields.io/badge/Golang-Design_Patterns-lightblue?logo=go&style=flat) 
+![Typescript Distribuido](https://img.shields.io/badge/TypeScript-updated-blue?logo=typescript&style=flat) 
+![TypeScript Clean Code](https://img.shields.io/badge/TypeScript-Desingn_patterns-blue?logo=typescript&style=flat) 
+![Testing Jest](https://img.shields.io/badge/Frontend-Testing-darkgreen?logo=jest&style=flat) 
+![Testing Backend](https://img.shields.io/badge/Backend-Testing-darkgreen?logo=jest&style=flat) 
 
+## Devops aprendizaje Cloud y Distribuido
+![DevOps with AWS](https://img.shields.io/badge/DevOps_Initial-red?logo=linux&style=flat)  
+![AWS Services](https://img.shields.io/badge/AWS_Services_AWS_cloud-black?logo=linux&style=flat)   
+![Docker](https://img.shields.io/badge/AWS_Services-AWS_cloud-green?logo=linux&style=flat)
 ### 📱 Desarrollo de Aplicaciones Mobile
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Exploring-purple?logo=kotlin&style=flat) ![Android](https://img.shields.io/badge/Android-Learning-green?logo=android&style=flat)
 
 ### 🧸 Inteligencia Artificial y Aprendizaje Automático
 ![AI Generative](https://img.shields.io/badge/Generative-IA-yellow?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Analitycs-Data-blueviolet?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Visualization-Data-blueviolet?logo=python&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Data_visualization-PowerBi-yellow?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-blueviolet?logo=python&style=for-the-badge) ![Python - IA Integration](https://img.shields.io/badge/IA_Integration-Python-purple?logo=python&style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers-blue?logo=huggingface&style=for-the-badge) ![Agents](https://img.shields.io/badge/Agents-AI-yellow?logo=python&style=for-the-badge) ![Assistants](https://img.shields.io/badge/Assistants-IA-yellow?logo=python&style=for-the-badge)
+![Computer Visio](https://img.shields.io/badge/Computer_Visio-red?logo=python&style=for-the-badge)
 
 ---
 
