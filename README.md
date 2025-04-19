@@ -131,7 +131,7 @@ Literal me enrole en la academia y actualmente estoy haciendo una amplitud técn
 ### ¡Siguiendo este camino, pronto dominaré todos estos temas! ✨
  
 
-### 🚀 Últimos Proyectos
+### 🚀 Seguimiento por memorias con IA ([19/04/2025](https://github.com/darwinyusef/darwinyusef/blob/master/memorias19042025.md))
 
 ### 📚 Educación
 
