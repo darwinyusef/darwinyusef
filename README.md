@@ -16,9 +16,9 @@ Mi objetivo: liderar como Arquitecto de Software de IA proyectos de sistemas dis
  <h3> Backend programming languages </h3>
  <p>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/> | 
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/> | 
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/> |
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/> | 
+    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/> 
  </p>
 
  <h3> Frameworks Backend i Use </h3>
