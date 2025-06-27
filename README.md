@@ -26,6 +26,7 @@ Mi objetivo: liderar como Arquitecto de Software de IA proyectos de sistemas dis
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=fastapi"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/> |
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=spring"/> |
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nest"/>
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=express"/> | 
     <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=laravel"/>
