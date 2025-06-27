@@ -7,9 +7,9 @@
 
 
 ## Desarrollador Fullstack de Software  **(Architech AI software for the future )**
-Soy ingeniero de sistemas y desarrollador Fullstack con más de 15 años de experiencia en desarrollo de aplicaciones web y con casi dos años de amplitud técnica en todo lo que respecta a la arquitectura de software, especializándome en soliciones del lado del cliente e integrando herramientas de inteligencia artificial a los proyectos. Poco a poco he ido evolucionando hacia roles técnicos mas avanzados que combinan creatividad y estrategia tecnológica en todo el ciclo de vida del software.
+Ingeniero de Sistemas & Fullstack Developer con mas de 17 años armando aplicaciones y diseñando experiencias UI/UX. En los últimos 4 años me he concentrado en la arquitectura de software, en amplitud técnica y evangelizando en lenguajes y librerías como Python, React e Inteligencia Artificial.
 
-Mi objetivo es consolidarme como arquitecto de software integrando la IA, liderando la creación de sistemas innovadores y escalables que transformen digitalmente a las organizaciones. Aspiro a diseñar arquitecturas que integren inteligencia artificial para resolver problemas complejos, automatizar procesos y anticipar las necesidades futuras del mercado, todo ello bajo un enfoque ético y sostenible. Estoy listo para aportar mi experiencia y visión en el diseño de soluciones disruptivas y de alto impacto.
+Mi objetivo: liderar como Arquitecto de Software de IA proyectos de sistemas distribuidos y Multi-agentes, SaaS ML y Moviles. buscando contribuir a la Industria 5.0.  liderando la creación de sistemas innovadores y escalables que transformen digitalmente a las organizaciones. Aspiro a diseñar arquitecturas que integren inteligencia artificial para resolver problemas complejos, automatizar procesos y anticipar las necesidades futuras del mercado, todo ello bajo un enfoque ético y sostenible. Estoy listo para aportar mi experiencia y visión en el diseño de soluciones disruptivas y de alto impacto.
 
 > Te cuento tambien un poco de mi rol como [Creador de contenidos](https://github.com/darwinyusef/darwinyusef/blob/master/CreadordeContenidos.md)
  
