@@ -6,8 +6,8 @@
 <img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=Welcome+to+my+github+profile%2C+I'm+Yusef+Gonzalez" alt="Typing SVG" />
 
 
-## Desarrollador Fullstack de Software  **(Architech AI software for the future )**
-Ingeniero de Sistemas & Fullstack Developer con mas de 17 años armando aplicaciones y diseñando experiencias UI/UX. En los últimos 4 años me he concentrado en la arquitectura de software, en amplitud técnica y evangelizando en lenguajes y librerías como Python, React e Inteligencia Artificial.
+## Especialista graduado de IA - Ing de sistemas - Desarrollador Fullstack de Software  **(Architech AI software for the future )**
+Ingeniero de Sistemas & Fullstack Developer con mas de 17 años armando aplicaciones y diseñando experiencias UI/UX. En los últimos 4 años me he concentrado en la arquitectura de software, en amplitud técnica y evangelizando en lenguajes y librerías como Python, Node, React e Inteligencia Artificial.
 
 Mi objetivo: liderar como Arquitecto de Software de IA proyectos de sistemas distribuidos y Multi-agentes, SaaS ML y Moviles. buscando contribuir a la Industria 5.0.  liderando la creación de sistemas innovadores y escalables que transformen digitalmente a las organizaciones. Aspiro a diseñar arquitecturas que integren inteligencia artificial para resolver problemas complejos, automatizar procesos y anticipar las necesidades futuras del mercado, todo ello bajo un enfoque ético y sostenible. Estoy listo para aportar mi experiencia y visión en el diseño de soluciones disruptivas y de alto impacto.
 
