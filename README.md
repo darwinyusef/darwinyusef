@@ -12,6 +12,9 @@ Ingeniero de Sistemas & Fullstack Developer con mas de 17 años armando aplica
 Mi objetivo: liderar como Arquitecto de Software de IA proyectos de sistemas distribuidos y Multi-agentes, SaaS ML y Moviles. buscando contribuir a la Industria 5.0.  liderando la creación de sistemas innovadores y escalables que transformen digitalmente a las organizaciones. Aspiro a diseñar arquitecturas que integren inteligencia artificial para resolver problemas complejos, automatizar procesos y anticipar las necesidades futuras del mercado, todo ello bajo un enfoque ético y sostenible. Estoy listo para aportar mi experiencia y visión en el diseño de soluciones disruptivas y de alto impacto.
 
 > Te cuento tambien un poco de mi rol como [Creador de contenidos](https://github.com/darwinyusef/darwinyusef/blob/master/CreadordeContenidos.md)
+
+<h3><a href="https://buymeacoffee.com/aquicreamos"> Toma un cafe con migo  <img height="48px" width="48px" style="filter: brightness(1);" alt="Icone Take a Coffe with me" src="https://svgl.app/library/bmc.svg"/></a> </h3>
+
  
  <h3> Backend programming languages </h3>
  <p>
