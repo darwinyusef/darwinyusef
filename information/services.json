@@ -1,0 +1,1127 @@
+[
+  {
+    "id": 0,
+    "name": "Arquitectura de Software Escalable",
+    "description": "Diseño de arquitecturas modernas en capas, hexagonal o microservicios con enfoque en resiliencia y alta disponibilidad.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers"
+  },
+  {
+    "id": 1,
+    "name": "Implantación de Microservicios",
+    "description": "Diseño, desacoplamiento, contratos API, versionado y gobernanza para plataformas orientadas a servicios.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "server"
+  },
+  {
+    "id": 2,
+    "name": "MLOps y Despliegue de Modelos IA",
+    "description": "Integración de modelos IA en producción, pipelines de entrenamiento, monitoreo, versionado y endpoints de inferencia.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "cpu"
+  },
+  {
+    "id": 3,
+    "name": "Visión Computacional",
+    "description": "Modelos y soluciones de detección, clasificación, OCR y visión embebida con TensorFlow Lite / ONNX.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "eye"
+  },
+  {
+    "id": 4,
+    "name": "Desarrollo Full-Stack Profesional",
+    "description": "Aplicaciones modernas con React, Astro, Node/FastAPI, PostgreSQL y despliegues escalables.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "code2"
+  },
+  {
+    "id": 5,
+    "name": "Backend en Go de Alta Concurrencia",
+    "description": "Servicios de alta carga, workers, goroutines y sistemas concurrentes diseñados para rendimiento extremo.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "zap"
+  },
+  {
+    "id": 6,
+    "name": "Data Engineering",
+    "description": "Modelado de datos, ETL/ELT, pipelines, orquestación y almacenamiento optimizado para IA.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "database"
+  },
+  {
+    "id": 7,
+    "name": "DevOps, CI/CD y Dockers",
+    "description": "Automatización de despliegues, pipelines CI/CD, Docker y prácticas DevOps completas.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "docker"
+  },
+  {
+    "id": 8,
+    "name": "Infraestructura como Código",
+    "description": "Automatización de infraestructura con Terraform, Pulumi y GitOps para despliegues reproducibles.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "box"
+  },
+  {
+    "id": 9,
+    "name": "Agentes Cognitivos con IA",
+    "description": "Desarrollo de agentes inteligentes, embeddings, clasificación de leads y asistentes autónomos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "robot"
+  },
+  {
+    "id": 10,
+    "name": "Integración IoT con ESP32",
+    "description": "Sistemas IoT conectados, telemetría, control de hardware, MQTT, WebSockets e integración con backend.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "wifi"
+  },
+  {
+    "id": 11,
+    "name": "APIs en Tiempo Real",
+    "description": "Streaming, notificaciones en vivo, sincronización cliente-servidor con WebSockets/MQTT.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "broadcast"
+  },
+  {
+    "id": 12,
+    "name": "Aplicaciones Móviles Nativas (iOS/Android)",
+    "description": "Desarrollo de apps nativas con Swift y Kotlin integradas a APIs modernas y modelos IA.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "smartphone"
+  },
+  {
+    "id": 13,
+    "name": "Sistemas Multitenant",
+    "description": "Diseño de plataformas multicliente con aislamiento de datos, particionado y escalabilidad masiva.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "users"
+  },
+  {
+    "id": 14,
+    "name": "Observabilidad y Monitoreo",
+    "description": "Implementación de métricas, logs centralizados, trazabilidad y dashboards productivos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "activity"
+  },
+  {
+    "id": 15,
+    "name": "Optimización de Performance",
+    "description": "Aceleración de sistemas backend, frontend, queries y arquitecturas optimizadas para carga real.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "gauge"
+  },
+  {
+    "id": 16,
+    "name": "Seguridad Aplicativa",
+    "description": "Protección de APIs, autenticación, autorización, roles, cifrado y mitigación de ataques comunes.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "shield"
+  },
+  {
+    "id": 17,
+    "name": "Modelado de Bases de Datos",
+    "description": "Diseño de esquemas, normalización, optimización de consultas y estrategias de indexación avanzada.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "table"
+  },
+  {
+    "id": 18,
+    "name": "Testing Automatizado",
+    "description": "Pruebas unitarias, integración, E2E, test contract y pipelines con calidad continua.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "checkcircle"
+  },
+  {
+    "id": 19,
+    "name": "Sistemas de Control Láser con IA",
+    "description": "Integración de corte láser, control electrónico, sensores y backend inteligente con IA.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "scan"
+  },
+  {
+    "id": 20,
+    "name": "Plataformas CRM Inteligentes",
+    "description": "Construcción de CRM con agentes, embudos automáticos, clasificación de leads y reporting real-time.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "linechart"
+  },
+  {
+    "id": 21,
+    "name": "Sistemas de Mensajería y Notificaciones",
+    "description": "Diseño de mensajería interna, colas, WebPush, FCM/APNs y notificaciones inteligentes.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "bell"
+  },
+  {
+    "id": 22,
+    "name": "Integración con S3 y Almacenamiento",
+    "description": "Implementación de capas de archivos, uploads grandes, versiones y seguridad en buckets S3.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "folder"
+  },
+  {
+    "id": 23,
+    "name": "Sistemas de Autenticación",
+    "description": "Implementación de login avanzado, OAuth2, tokens, roles, MFA y sesiones seguras.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "lock"
+  },
+  {
+    "id": 24,
+    "name": "Desarrollo de Dashboards y Paneles",
+    "description": "Dashboards en tiempo real con datos vivos, IA y analítica integrada para negocio.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "barchart2"
+  },
+  {
+    "id": 25,
+    "name": "Integración con Pagos",
+    "description": "Pasarelas de pago, manejo de tokens, conciliación y seguridad para transacciones digitales.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "creditcard"
+  },
+  {
+    "id": 26,
+    "name": "Automatización de Procesos",
+    "description": "Scripts, bots y flujos automáticos para liberar carga operativa y ejecutar procesos complejos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "repeat"
+  },
+  {
+    "id": 27,
+    "name": "Integración Multi-plataforma",
+    "description": "APIs, móviles, IoT, web y escritorio sincronizados bajo una misma arquitectura multiplataforma.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers2"
+  },
+  {
+    "id": 28,
+    "name": "Prototipos y MVPs",
+    "description": "Desarrollo rápido de MVP técnicos para validar arquitectura, IA o flujo de producto digital.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "rocket"
+  },
+  {
+    "id": 29,
+    "name": "Aceleración de Startups Tech",
+    "description": "Mentoría técnica, definición de stack, arquitectura inicial y roadmap de tecnología para lanzamientos rápidos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "sparkles"
+  },
+  {
+    "id": 30,
+    "name": "Evaluación de requerimientos y modelado de datos",
+    "description": "Analizamos necesidades del negocio y diseñamos modelos de datos eficientes y escalables para tu proyecto.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "table"
+  },
+  {
+    "id": 31,
+    "name": "Diseño de arquitecturas validadas por TOGAF o ITIL",
+    "description": "Creamos arquitecturas empresariales siguiendo frameworks reconocidos internacionalmente como TOGAF o ITIL.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers"
+  },
+  {
+    "id": 32,
+    "name": "Planeación con PMP o SCRUM",
+    "description": "Gestionamos proyectos con metodologías ágiles (SCRUM) o tradicionales (PMP) según las necesidades del equipo.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "linechart"
+  },
+  {
+    "id": 33,
+    "name": "Implementación de testing",
+    "description": "Configuramos estrategias de testing automatizado: unitarias, integración, E2E y performance para garantizar calidad.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "checkcircle"
+  },
+  {
+    "id": 34,
+    "name": "Capacitación de usuarios",
+    "description": "Entrenamos a tu equipo y usuarios finales para aprovechar al máximo el sistema implementado.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "users"
+  },
+  {
+    "id": 35,
+    "name": "Gestión de documentación",
+    "description": "Creamos y mantenemos documentación técnica clara, completa y actualizada del proyecto.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "folder"
+  },
+  {
+    "id": 36,
+    "name": "Observabilidad avanzada",
+    "description": "Implementamos monitoreo completo: logs, métricas y trazas para identificar problemas antes de que afecten usuarios.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "eye"
+  },
+  {
+    "id": 37,
+    "name": "Evaluación de servicios cloud",
+    "description": "Analizamos y recomendamos las mejores soluciones cloud (AWS, Azure, GCP) según tus necesidades y presupuesto.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "cloud"
+  },
+  {
+    "id": 38,
+    "name": "Webtrends + Analíticas",
+    "description": "Configuramos herramientas de análisis web y analíticas avanzadas para tomar decisiones basadas en datos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "barchart2"
+  },
+  {
+    "id": 39,
+    "name": "Automatización generada con QA y Claude",
+    "description": "Implementamos automatización inteligente de QA utilizando Claude AI para generar casos de prueba, scripts de testing y validación automatizada de calidad.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "robot"
+  },
+  {
+    "id": 40,
+    "name": "APIs RESTful Profesionales",
+    "description": "Desarrollo de APIs REST escalables con documentación OpenAPI/Swagger, versionado, autenticación JWT y mejores prácticas.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "api"
+  },
+  {
+    "id": 41,
+    "name": "GraphQL APIs",
+    "description": "Implementación de APIs GraphQL con Apollo Server, resolvers optimizados, subscriptions en tiempo real y DataLoader.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers"
+  },
+  {
+    "id": 42,
+    "name": "Backend con Node.js/Express",
+    "description": "Desarrollo de aplicaciones backend robustas con Node.js, Express, middleware personalizados y arquitectura escalable.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "server"
+  },
+  {
+    "id": 43,
+    "name": "Backend con Python/FastAPI",
+    "description": "Servicios backend de alto rendimiento con FastAPI, validación de datos con Pydantic, async/await y documentación automática.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "zap"
+  },
+  {
+    "id": 44,
+    "name": "Gestión de Bases de Datos SQL",
+    "description": "Diseño, optimización y administración de bases de datos SQL (PostgreSQL, MySQL) con migraciones, índices y queries eficientes.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "database"
+  },
+  {
+    "id": 45,
+    "name": "Bases de Datos NoSQL",
+    "description": "Implementación y optimización de bases NoSQL (MongoDB, Redis, DynamoDB) para casos de uso específicos y alto rendimiento.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "database"
+  },
+  {
+    "id": 46,
+    "name": "Aplicaciones React Modernas",
+    "description": "Desarrollo frontend con React, hooks, context API, state management (Redux/Zustand) y componentes reutilizables.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "code"
+  },
+  {
+    "id": 47,
+    "name": "Next.js y Server-Side Rendering",
+    "description": "Aplicaciones web con Next.js, SSR/SSG, API routes, optimización SEO y rendimiento excepcional.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "rocket"
+  },
+  {
+    "id": 48,
+    "name": "Aplicaciones Vue.js",
+    "description": "Desarrollo frontend con Vue.js 3, Composition API, Pinia para state management y componentes reactivos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "code2"
+  },
+  {
+    "id": 49,
+    "name": "TypeScript Full Stack",
+    "description": "Desarrollo type-safe en frontend y backend con TypeScript, interfaces compartidas y reducción de errores en runtime.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "code"
+  },
+  {
+    "id": 50,
+    "name": "Diseño UI/UX Responsive",
+    "description": "Interfaces modernas y responsive con Tailwind CSS, CSS Modules, animaciones y diseño mobile-first.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "smartphone"
+  },
+  {
+    "id": 51,
+    "name": "Optimización de Performance Frontend",
+    "description": "Análisis y mejora de rendimiento: lazy loading, code splitting, optimización de imágenes, Core Web Vitals.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "gauge"
+  },
+  {
+    "id": 52,
+    "name": "Desarrollo iOS con Swift y SwiftUI",
+    "description": "Aplicaciones nativas iOS con Swift, SwiftUI, Combine, arquitectura MVVM y integración con servicios Apple.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "smartphone"
+  },
+  {
+    "id": 53,
+    "name": "Desarrollo Android con Jetpack Compose",
+    "description": "Apps Android modernas con Jetpack Compose, Material Design 3, ViewModel, Room y Kotlin Coroutines.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "smartphone"
+  },
+  {
+    "id": 54,
+    "name": "Integración de APIs en Apps Móviles",
+    "description": "Consumo de APIs REST/GraphQL en móviles, manejo de autenticación, caché offline y sincronización de datos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "mobile"
+  },
+  {
+    "id": 55,
+    "name": "Publicación en App Store y Play Store",
+    "description": "Gestión completa del proceso de publicación: certificados, screenshots, ASO, actualizaciones y mantenimiento.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "smartphone"
+  },
+  {
+    "id": 56,
+    "name": "Arquitectura de Aplicaciones Móviles",
+    "description": "Diseño de arquitectura móvil escalable: Clean Architecture, MVVM, MVI, inyección de dependencias y modularización.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers2"
+  },
+  {
+    "id": 57,
+    "name": "Caching y Optimización Backend",
+    "description": "Implementación de estrategias de caché con Redis, Memcached, optimización de queries y reducción de latencia.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "zap"
+  },
+  {
+    "id": 58,
+    "name": "WebSockets y Comunicación en Tiempo Real",
+    "description": "Desarrollo de sistemas de comunicación en tiempo real con WebSockets, Socket.io, notificaciones push y sincronización.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "broadcast"
+  },
+  {
+    "id": 59,
+    "name": "Serverless y Cloud Functions",
+    "description": "Desarrollo de arquitecturas serverless con AWS Lambda, Google Cloud Functions, Azure Functions y event-driven design.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "cloud"
+  },
+  {
+    "id": 60,
+    "name": "TOGAF ADM - Architecture Development Method",
+    "description": "Implementación completa del método de desarrollo de arquitectura TOGAF, guiando todas las fases desde visión hasta gestión de cambios.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers"
+  },
+  {
+    "id": 61,
+    "name": "Fase Preliminar TOGAF - Framework y Principios",
+    "description": "Establecimiento de capacidades de arquitectura empresarial, definición de framework, principios y gobernanza inicial.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "shield"
+  },
+  {
+    "id": 62,
+    "name": "Fase A - Visión de Arquitectura",
+    "description": "Definición del alcance, identificación de stakeholders, creación de la visión arquitectónica y business case inicial.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "eye"
+  },
+  {
+    "id": 63,
+    "name": "Fase B - Arquitectura de Negocio",
+    "description": "Modelado de procesos de negocio, análisis de brechas, definición de capacidades organizacionales y roadmap de negocio.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "users"
+  },
+  {
+    "id": 64,
+    "name": "Fase C - Arquitectura de Sistemas de Información",
+    "description": "Diseño de arquitectura de datos y aplicaciones, definición de integraciones, catálogo de aplicaciones y gobierno de datos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "database"
+  },
+  {
+    "id": 65,
+    "name": "Fase D - Arquitectura Tecnológica",
+    "description": "Definición de plataformas tecnológicas, infraestructura, componentes de software y estándares técnicos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "server"
+  },
+  {
+    "id": 66,
+    "name": "Fase E - Oportunidades y Soluciones",
+    "description": "Identificación de proyectos de implementación, análisis costo-beneficio y planificación de portfolio de proyectos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "linechart"
+  },
+  {
+    "id": 67,
+    "name": "Fase F - Planificación de Migración",
+    "description": "Desarrollo de roadmap de implementación, análisis de dependencias, gestión de riesgos y planificación de transición.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "rocket"
+  },
+  {
+    "id": 68,
+    "name": "Fase G - Gobernanza de Implementación",
+    "description": "Supervisión de proyectos de arquitectura, compliance con estándares, gestión de cambios arquitectónicos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "shield"
+  },
+  {
+    "id": 69,
+    "name": "Fase H - Gestión de Cambios de Arquitectura",
+    "description": "Monitoreo continuo, gestión de cambios, actualización del repositorio de arquitectura y mejora continua.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "repeat"
+  },
+  {
+    "id": 70,
+    "name": "Enterprise Architecture Governance",
+    "description": "Establecimiento de comités de arquitectura, políticas de governance, procesos de revisión y compliance arquitectónico.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "shield"
+  },
+  {
+    "id": 71,
+    "name": "Architecture Repository Management",
+    "description": "Gestión del repositorio de arquitectura empresarial, versionado de artefactos, modelos y documentación centralizada.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "folder"
+  },
+  {
+    "id": 72,
+    "name": "SCRUM for Enterprise Architecture Teams",
+    "description": "Implementación de SCRUM adaptado a equipos de arquitectura empresarial con sprints, retrospectivas y entregas incrementales.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "users"
+  },
+  {
+    "id": 73,
+    "name": "Agile Architecture Sprints",
+    "description": "Diseño y facilitación de sprints de arquitectura ágil, definición de MVPs arquitectónicos y validación iterativa.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "zap"
+  },
+  {
+    "id": 74,
+    "name": "Architecture Maturity Assessment",
+    "description": "Evaluación del nivel de madurez de arquitectura empresarial con frameworks reconocidos y plan de mejora.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "gauge"
+  },
+  {
+    "id": 75,
+    "name": "Business Capability Modeling",
+    "description": "Modelado de capacidades de negocio, análisis de brechas, heat maps y priorización de inversiones tecnológicas.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers"
+  },
+  {
+    "id": 76,
+    "name": "Enterprise Data Architecture",
+    "description": "Diseño de arquitectura de datos empresarial, modelos conceptuales, lógicos, físicos y estrategia de gobierno de datos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "database"
+  },
+  {
+    "id": 77,
+    "name": "Application Portfolio Management",
+    "description": "Gestión del portfolio de aplicaciones empresariales, análisis de racionalización, TCO y roadmap de modernización.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "folder"
+  },
+  {
+    "id": 78,
+    "name": "Technology Roadmapping",
+    "description": "Desarrollo de roadmaps tecnológicos alineados con objetivos de negocio, evaluación de tecnologías emergentes.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "rocket"
+  },
+  {
+    "id": 79,
+    "name": "Digital Transformation Strategy",
+    "description": "Diseño de estrategias de transformación digital empresarial, priorización de iniciativas y gestión del cambio organizacional.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "sparkles"
+  },
+  {
+    "id": 80,
+    "name": "Cloud Migration Architecture",
+    "description": "Planificación y diseño de migraciones a cloud, evaluación de cargas de trabajo, estrategias 6R y optimización de costos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "cloud"
+  },
+  {
+    "id": 81,
+    "name": "Integration Architecture Design",
+    "description": "Diseño de arquitecturas de integración empresarial, ESB, APIs, event-driven architecture y patrones de mensajería.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "broadcast"
+  },
+  {
+    "id": 82,
+    "name": "Security Architecture",
+    "description": "Diseño de arquitecturas de seguridad empresarial, Zero Trust, gestión de identidades, cifrado y compliance.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "lock"
+  },
+  {
+    "id": 83,
+    "name": "Enterprise API Strategy",
+    "description": "Definición de estrategia de APIs empresariales, API Gateway, gestión del ciclo de vida y monetización de APIs.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "api"
+  },
+  {
+    "id": 84,
+    "name": "Architecture Standards and Patterns",
+    "description": "Definición de estándares arquitectónicos, catálogo de patrones reutilizables y mejores prácticas empresariales.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "checkcircle"
+  },
+  {
+    "id": 85,
+    "name": "Cost Optimization Architecture",
+    "description": "Análisis y optimización de costos de arquitectura, FinOps, rightsizing de recursos y eliminación de desperdicios.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "creditcard"
+  },
+  {
+    "id": 86,
+    "name": "Architecture Risk Management",
+    "description": "Identificación y mitigación de riesgos arquitectónicos, análisis de deuda técnica y estrategias de remediación.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "shield"
+  },
+  {
+    "id": 87,
+    "name": "Enterprise Architecture Training",
+    "description": "Capacitación en frameworks de arquitectura empresarial, TOGAF, certificación y desarrollo de equipos de arquitectura.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "users"
+  },
+  {
+    "id": 88,
+    "name": "Architecture Decision Records (ADR)",
+    "description": "Implementación de ADRs, documentación de decisiones arquitectónicas, trazabilidad y justificación de elecciones técnicas.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "folder"
+  },
+  {
+    "id": 89,
+    "name": "Business-IT Alignment",
+    "description": "Alineación de estrategias de TI con objetivos de negocio, métricas de valor, KPIs arquitectónicos y comunicación ejecutiva.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "linechart"
+  },
+  {
+    "id": 90,
+    "name": "AI-Driven Architecture Design",
+    "description": "Diseño de arquitecturas asistidas por IA, generación automática de diagramas, análisis de patrones y recomendaciones arquitectónicas inteligentes.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "robot"
+  },
+  {
+    "id": 91,
+    "name": "ML/AI Infrastructure Architecture",
+    "description": "Diseño de infraestructura para pipelines de ML, orquestación de modelos, feature stores y plataformas de MLOps escalables.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "cpu"
+  },
+  {
+    "id": 92,
+    "name": "AI-Powered Code Review y Arquitectura",
+    "description": "Revisión automatizada de arquitectura con IA, detección de anti-patrones, análisis de deuda técnica y sugerencias de mejora.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "scan"
+  },
+  {
+    "id": 93,
+    "name": "Intelligent Document Processing Architecture",
+    "description": "Arquitectura para sistemas de procesamiento inteligente de documentos con OCR, NLP, clasificación y extracción de datos con IA.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "folder"
+  },
+  {
+    "id": 94,
+    "name": "Conversational AI Architecture",
+    "description": "Diseño de arquitectura para chatbots y asistentes virtuales con LLMs, RAG, vector databases y gestión de contexto.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "robot"
+  },
+  {
+    "id": 95,
+    "name": "AI Model Serving Architecture",
+    "description": "Arquitectura para servir modelos de IA en producción, escalado automático, A/B testing de modelos y monitoreo de inferencias.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "server"
+  },
+  {
+    "id": 96,
+    "name": "Vector Database Architecture",
+    "description": "Diseño de arquitecturas con bases de datos vectoriales (Pinecone, Weaviate, Qdrant) para búsqueda semántica y embeddings.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "database"
+  },
+  {
+    "id": 97,
+    "name": "AI-Enhanced Observability",
+    "description": "Observabilidad inteligente con detección de anomalías por IA, predicción de fallos y análisis automático de logs.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "eye"
+  },
+  {
+    "id": 98,
+    "name": "Generative AI Integration Architecture",
+    "description": "Integración de modelos generativos (GPT, Claude, Midjourney) en arquitecturas empresariales con governance y control de costos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "sparkles"
+  },
+  {
+    "id": 99,
+    "name": "AI-Powered Testing Architecture",
+    "description": "Arquitectura de testing inteligente con generación automática de casos de prueba, análisis de cobertura y optimización de QA con IA.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "checkcircle"
+  },
+  {
+    "id": 100,
+    "name": "Real-time AI Analytics Architecture",
+    "description": "Arquitectura para analíticas en tiempo real con ML, streaming de datos, predicciones en vivo y dashboards inteligentes.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "linechart"
+  },
+  {
+    "id": 101,
+    "name": "AI Governance and Ethics Framework",
+    "description": "Framework de gobernanza de IA, principios éticos, bias detection, explicabilidad de modelos y compliance regulatorio.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "shield"
+  },
+  {
+    "id": 102,
+    "name": "LLM Orchestration Architecture",
+    "description": "Orquestación de múltiples LLMs, routing inteligente, fallback strategies, cost optimization y gestión de prompts.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers"
+  },
+  {
+    "id": 103,
+    "name": "AI-Driven Decision Support Systems",
+    "description": "Sistemas de soporte a decisiones con IA, análisis predictivo, recomendaciones automáticas y simulación de escenarios.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "gauge"
+  },
+  {
+    "id": 104,
+    "name": "Knowledge Graph Architecture with AI",
+    "description": "Diseño de grafos de conocimiento con IA para búsqueda semántica, reasoning y descubrimiento de relaciones.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "broadcast"
+  },
+  {
+    "id": 105,
+    "name": "AI Security Architecture",
+    "description": "Arquitectura de seguridad con IA para detección de amenazas, análisis de comportamiento, respuesta automática a incidentes.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "lock"
+  },
+  {
+    "id": 106,
+    "name": "AutoML Pipeline Architecture",
+    "description": "Arquitectura de pipelines AutoML para entrenamiento automatizado, selección de modelos y optimización de hiperparámetros.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "repeat"
+  },
+  {
+    "id": 107,
+    "name": "Edge AI Architecture",
+    "description": "Arquitectura para IA en edge computing, modelos optimizados para dispositivos, sincronización cloud-edge y procesamiento local.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "wifi"
+  },
+  {
+    "id": 108,
+    "name": "AI-Powered Personalization Engine",
+    "description": "Motor de personalización con IA para experiencias de usuario, recomendaciones en tiempo real y segmentación dinámica.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "users"
+  },
+  {
+    "id": 109,
+    "name": "Federated Learning Architecture",
+    "description": "Arquitectura de aprendizaje federado para entrenar modelos distribuidos preservando privacidad y cumpliendo regulaciones.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers2"
+  },
+  {
+    "id": 110,
+    "name": "LLM-Powered Autonomous Agents",
+    "description": "Desarrollo de agentes autónomos con LLMs, toma de decisiones, planificación de tareas y ejecución de acciones complejas.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "robot"
+  },
+  {
+    "id": 111,
+    "name": "Multi-Agent Systems Architecture",
+    "description": "Arquitectura de sistemas multi-agente con LLMs, coordinación entre agentes, división de tareas y colaboración inteligente.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "users"
+  },
+  {
+    "id": 112,
+    "name": "Agent Orchestration Framework",
+    "description": "Framework de orquestación de agentes con LLMs, gestión de workflow, delegación de tareas y monitoreo de ejecución.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "layers"
+  },
+  {
+    "id": 113,
+    "name": "LangChain Agent Development",
+    "description": "Desarrollo de agentes con LangChain, tools integration, memory management, chain of thought y reasoning avanzado.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "robot"
+  },
+  {
+    "id": 114,
+    "name": "ReAct Pattern Agents",
+    "description": "Implementación de agentes con patrón ReAct (Reasoning and Acting), iteración pensamiento-acción y resolución de problemas complejos.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "zap"
+  },
+  {
+    "id": 115,
+    "name": "Function Calling Agents",
+    "description": "Agentes con capacidad de llamar funciones externas, integración de APIs, ejecución de código y acceso a servicios.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "api"
+  },
+  {
+    "id": 116,
+    "name": "RAG-Enhanced Agents",
+    "description": "Agentes con Retrieval-Augmented Generation, búsqueda en bases de conocimiento, contexto dinámico y respuestas fundamentadas.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "database"
+  },
+  {
+    "id": 117,
+    "name": "Agent Memory Systems",
+    "description": "Sistemas de memoria para agentes: memoria a corto plazo, largo plazo, episódica y semántica con vector databases.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "folder"
+  },
+  {
+    "id": 118,
+    "name": "Task Planning Agents",
+    "description": "Agentes especializados en planificación de tareas complejas, descomposición de objetivos y estrategias de ejecución.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "linechart"
+  },
+  {
+    "id": 119,
+    "name": "Conversational Agents with Context",
+    "description": "Agentes conversacionales con gestión avanzada de contexto, personalización, multi-turn dialogue y manejo de estado.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "robot"
+  },
+  {
+    "id": 120,
+    "name": "Code Generation Agents",
+    "description": "Agentes especializados en generación de código, debugging automático, refactoring y optimización de software.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "code"
+  },
+  {
+    "id": 121,
+    "name": "Research and Analysis Agents",
+    "description": "Agentes para investigación autónoma, análisis de información, síntesis de datos y generación de insights.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "scan"
+  },
+  {
+    "id": 122,
+    "name": "Agent Tool Integration",
+    "description": "Integración de herramientas externas en agentes: APIs, databases, file systems, web scraping y servicios cloud.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "broadcast"
+  },
+  {
+    "id": 123,
+    "name": "Human-in-the-Loop Agent Systems",
+    "description": "Sistemas de agentes con intervención humana, validación de acciones críticas, escalamiento y control de decisiones.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "users"
+  },
+  {
+    "id": 124,
+    "name": "Agent Evaluation and Monitoring",
+    "description": "Evaluación de performance de agentes, métricas de éxito, detección de fallos y optimización continua.",
+    "price": 30000,
+    "duration": "Por hora",
+    "is_active": true,
+    "icon": "gauge"
+  }
+]

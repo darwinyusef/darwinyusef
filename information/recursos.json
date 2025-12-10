@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Guía Completa de FastAPI",
+    "description": "Documentación oficial y guías para dominar FastAPI, el framework web moderno de Python.",
+    "url": "https://fastapi.tiangolo.com/",
+    "type": "Documentación",
+    "category": "Backend",
+    "tags": ["Python", "FastAPI", "API", "Backend"],
+    "language": "Español/English",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "title": "TensorFlow Developer Certificate",
+    "description": "Programa oficial de certificación de Google para desarrolladores de TensorFlow.",
+    "url": "https://www.tensorflow.org/certificate",
+    "type": "Certificación",
+    "category": "IA/ML",
+    "tags": ["TensorFlow", "Machine Learning", "Certification"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "title": "React Documentation",
+    "description": "Documentación oficial de React con ejemplos interactivos y mejores prácticas.",
+    "url": "https://react.dev/",
+    "type": "Documentación",
+    "category": "Frontend",
+    "tags": ["React", "JavaScript", "Frontend"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "title": "LangChain Documentation",
+    "description": "Guía completa para construir aplicaciones con LLMs usando LangChain.",
+    "url": "https://python.langchain.com/docs/get_started/introduction",
+    "type": "Documentación",
+    "category": "IA/ML",
+    "tags": ["LangChain", "LLM", "AI", "Python"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "title": "Docker Mastery Course",
+    "description": "Curso completo de Docker desde principiante hasta avanzado.",
+    "url": "https://www.udemy.com/course/docker-mastery/",
+    "type": "Curso",
+    "category": "DevOps",
+    "tags": ["Docker", "DevOps", "Containers"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "title": "PostgreSQL Tutorial",
+    "description": "Tutorial completo de PostgreSQL con ejercicios prácticos y mejores prácticas.",
+    "url": "https://www.postgresqltutorial.com/",
+    "type": "Tutorial",
+    "category": "Database",
+    "tags": ["PostgreSQL", "SQL", "Database"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "title": "Kotlin for Android Developers",
+    "description": "Guía oficial de Google para desarrollo Android con Kotlin.",
+    "url": "https://developer.android.com/kotlin",
+    "type": "Documentación",
+    "category": "Mobile",
+    "tags": ["Kotlin", "Android", "Mobile"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "title": "Figma Learn",
+    "description": "Recursos oficiales de Figma para aprender diseño UI/UX.",
+    "url": "https://www.figma.com/resources/learn-design/",
+    "type": "Tutorial",
+    "category": "Design",
+    "tags": ["Figma", "UI/UX", "Design"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "title": "Spring Boot Reference",
+    "description": "Documentación oficial de Spring Boot con ejemplos y guías.",
+    "url": "https://docs.spring.io/spring-boot/docs/current/reference/html/",
+    "type": "Documentación",
+    "category": "Backend",
+    "tags": ["Spring Boot", "Java", "Backend"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "title": "Hugging Face Course",
+    "description": "Curso gratuito de NLP con transformers y Hugging Face.",
+    "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
+    "type": "Curso",
+    "category": "IA/ML",
+    "tags": ["Hugging Face", "NLP", "Transformers"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "title": "Next.js Learn",
+    "description": "Tutorial interactivo oficial de Next.js para aprender paso a paso.",
+    "url": "https://nextjs.org/learn",
+    "type": "Tutorial",
+    "category": "Frontend",
+    "tags": ["Next.js", "React", "TypeScript"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "title": "AWS Solutions Architect",
+    "description": "Preparación para la certificación AWS Solutions Architect Associate.",
+    "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "type": "Certificación",
+    "category": "Cloud",
+    "tags": ["AWS", "Cloud", "Certification"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "title": "TypeScript Handbook",
+    "description": "Guía oficial de TypeScript con todos los conceptos fundamentales.",
+    "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "type": "Documentación",
+    "category": "Frontend",
+    "tags": ["TypeScript", "JavaScript"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "title": "Jest Testing Framework",
+    "description": "Documentación completa de Jest para testing en JavaScript y TypeScript.",
+    "url": "https://jestjs.io/docs/getting-started",
+    "type": "Documentación",
+    "category": "Testing",
+    "tags": ["Jest", "Testing", "JavaScript"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "title": "RxJS Documentation",
+    "description": "Guía oficial de RxJS para programación reactiva en JavaScript.",
+    "url": "https://rxjs.dev/guide/overview",
+    "type": "Documentación",
+    "category": "Frontend",
+    "tags": ["RxJS", "Reactive", "JavaScript"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "title": "Django REST Framework",
+    "description": "Toolkit poderoso para construir Web APIs con Django.",
+    "url": "https://www.django-rest-framework.org/",
+    "type": "Documentación",
+    "category": "Backend",
+    "tags": ["Django", "Python", "API"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "title": "Tailwind CSS Documentation",
+    "description": "Framework CSS utility-first para diseño web moderno.",
+    "url": "https://tailwindcss.com/docs",
+    "type": "Documentación",
+    "category": "Frontend",
+    "tags": ["Tailwind CSS", "CSS", "Design"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "title": "Astro Documentation",
+    "description": "Framework web moderno para sitios estáticos ultra-rápidos.",
+    "url": "https://docs.astro.build/",
+    "type": "Documentación",
+    "category": "Frontend",
+    "tags": ["Astro", "SSG", "Web"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 19,
+    "title": "Redis University",
+    "description": "Cursos gratuitos oficiales de Redis para aprender caching y bases de datos en memoria.",
+    "url": "https://university.redis.com/",
+    "type": "Curso",
+    "category": "Database",
+    "tags": ["Redis", "Cache", "Database"],
+    "language": "English",
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "title": "GitHub Actions Documentation",
+    "description": "Guía completa para automatizar workflows con GitHub Actions.",
+    "url": "https://docs.github.com/en/actions",
+    "type": "Documentación",
+    "category": "DevOps",
+    "tags": ["GitHub Actions", "CI/CD", "DevOps"],
+    "language": "English",
+    "is_active": true
+  }
+]

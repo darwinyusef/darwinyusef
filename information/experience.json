@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "position": "Senior Full-Stack Engineer & AI Architect",
+    "company": "Freelance / Consultoría",
+    "location": "Remote",
+    "startDate": "2018-01-01",
+    "endDate": null,
+    "current": true,
+    "description": "Arquitectura de soluciones full-stack con enfoque en IA generativa, deep learning, visión computacional y sistemas multi-agente. Diseño e implementación de microservicios escalables.",
+    "achievements": [
+      "Implementación de sistemas de IA generativa con LangChain y OpenAI",
+      "Arquitectura de microservicios para plataformas con 10,000+ usuarios",
+      "Desarrollo de modelos de Computer Vision con TensorFlow",
+      "Reducción de tiempos de procesamiento en 80% mediante optimización"
+    ],
+    "technologies": ["Python", "FastAPI", "React", "Next.js", "TensorFlow", "Docker", "AWS", "PostgreSQL"],
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "position": "Lead Software Architect",
+    "company": "Tech Solutions Inc.",
+    "location": "Remote",
+    "startDate": "2015-03-01",
+    "endDate": "2017-12-31",
+    "current": false,
+    "description": "Liderazgo técnico en proyectos enterprise. Diseño de arquitecturas escalables y mentoría de equipos de desarrollo.",
+    "achievements": [
+      "Migración exitosa de monolito a microservicios",
+      "Implementación de CI/CD reduciendo deployment time en 70%",
+      "Mentoría de equipo de 8 desarrolladores",
+      "Diseño de APIs RESTful para 50+ clientes enterprise"
+    ],
+    "technologies": ["Node.js", "Angular", "MySQL", "Redis", "Docker", "Jenkins"],
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "position": "Full-Stack Developer & UI/UX Designer",
+    "company": "Digital Agency",
+    "location": "Bogotá, Colombia",
+    "startDate": "2010-06-01",
+    "endDate": "2015-02-28",
+    "current": false,
+    "description": "Desarrollo full-stack y diseño UI/UX para proyectos web y móviles. Creación de experiencias digitales para múltiples clientes.",
+    "achievements": [
+      "Desarrollo de 40+ sitios web y aplicaciones",
+      "Diseño UI/UX de apps con 100,000+ descargas",
+      "Implementación de WordPress personalizado para 25+ clientes",
+      "Optimización SEO logrando top 3 en Google para clientes clave"
+    ],
+    "technologies": ["JavaScript", "PHP", "WordPress", "MySQL", "Adobe Suite", "Figma"],
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "position": "Junior Web Developer",
+    "company": "StartUp Tech",
+    "location": "Bogotá, Colombia",
+    "startDate": "2008-01-01",
+    "endDate": "2010-05-31",
+    "current": false,
+    "description": "Inicio de carrera profesional en desarrollo web. Aprendizaje de tecnologías web fundamentales y mejores prácticas.",
+    "achievements": [
+      "Desarrollo de interfaces responsive con HTML5/CSS3",
+      "Implementación de funcionalidades JavaScript dinámicas",
+      "Integración de APIs de terceros",
+      "Colaboración en proyectos de e-commerce"
+    ],
+    "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "PHP", "MySQL"],
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "position": "Formación Académica Continua",
+    "company": "Autodidacta / Cursos Online",
+    "location": "Remote",
+    "startDate": "2020-01-01",
+    "endDate": null,
+    "current": true,
+    "description": "Aprendizaje continuo en arquitectura de software, patrones de diseño, sistemas distribuidos y nuevas tecnologías.",
+    "achievements": [
+      "Certificación en Java Spring Boot Security",
+      "Especialización en TensorFlow y Deep Learning",
+      "Estudio de sistemas distribuidos con TypeScript",
+      "Implementación de Transformers con Hugging Face",
+      "Desarrollo de Agentes y Asistentes con LLMs"
+    ],
+    "technologies": ["Spring Boot", "Golang", "TypeScript", "Jest", "Hugging Face", "LangChain"],
+    "is_active": true
+  }
+]

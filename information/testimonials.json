@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "María González",
+    "role": "CEO",
+    "company": "TechStart Solutions",
+    "content": "Trabajar con este equipo transformó completamente nuestra plataforma. Su expertise en arquitectura de microservicios y MLOps nos permitió escalar de 100 a 10,000 usuarios sin problemas. Profesionalismo excepcional.",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "rating": 5,
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Carlos Rodríguez",
+    "role": "CTO",
+    "company": "InnovateLab",
+    "content": "La implementación de nuestro sistema de visión computacional superó todas las expectativas. Redujimos el tiempo de procesamiento en un 80% y la precisión mejoró significativamente. Altamente recomendado.",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "rating": 5,
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "Ana Martínez",
+    "role": "Product Manager",
+    "company": "DataFlow Inc",
+    "content": "El desarrollo de nuestro CRM inteligente con agentes de IA fue impecable. La clasificación automática de leads aumentó nuestra conversión en un 45%. Comunicación clara y entrega a tiempo.",
+    "avatar": "https://i.pravatar.cc/150?img=9",
+    "rating": 5,
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Roberto Silva",
+    "role": "Founder",
+    "company": "CloudTech Ventures",
+    "content": "Nuestro MVP fue desarrollado en tiempo récord sin sacrificar calidad. La arquitectura escalable que diseñaron nos ha permitido crecer exponencialmente. Un verdadero partner tecnológico.",
+    "avatar": "https://i.pravatar.cc/150?img=14",
+    "rating": 5,
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Laura Fernández",
+    "role": "Head of Engineering",
+    "company": "SmartIoT Systems",
+    "youtube_id": "dQw4w9WgXcQ",
+    "content": "Increíble experiencia trabajando juntos en nuestro proyecto IoT. La integración fue perfecta y los resultados superaron nuestras expectativas.",
+    "avatar": "https://i.pravatar.cc/150?img=20",
+    "rating": 5,
+    "has_video": true,
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "name": "Diego Morales",
+    "role": "Director de Tecnología",
+    "company": "FinanceApp Pro",
+    "content": "La integración con pasarelas de pago y el sistema de autenticación OAuth2 funcionan perfectamente. La seguridad implementada nos dio la confianza para manejar transacciones millonarias.",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "rating": 5,
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "name": "Patricia Ruiz",
+    "role": "VP de Producto",
+    "company": "RetailTech Global",
+    "content": "El dashboard en tiempo real con analítica integrada cambió la forma en que tomamos decisiones. Visualización de datos excepcional y rendimiento impecable incluso con millones de registros.",
+    "avatar": "https://i.pravatar.cc/150?img=24",
+    "rating": 5,
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "name": "Javier López",
+    "role": "Co-Founder",
+    "company": "EduTech Platform",
+    "youtube_id": "9bZkp7q19f0",
+    "content": "El mejor desarrollador con el que hemos trabajado. Transformó nuestra visión en realidad con tecnología de punta.",
+    "avatar": "https://i.pravatar.cc/150?img=68",
+    "rating": 5,
+    "has_video": true,
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "name": "Sofía Torres",
+    "role": "Tech Lead",
+    "company": "HealthCare AI",
+    "content": "La implementación de nuestros modelos de ML en producción con MLOps fue ejemplar. Pipelines automatizados, monitoreo en tiempo real y versionado impecable. Profesionalismo de primer nivel.",
+    "avatar": "https://i.pravatar.cc/150?img=45",
+    "rating": 5,
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "name": "Miguel Ángel Castro",
+    "role": "Arquitecto de Software",
+    "company": "Enterprise Solutions",
+    "content": "El sistema multitenant que desarrollaron soporta actualmente más de 500 clientes con aislamiento perfecto de datos. La arquitectura hexagonal implementada es un modelo a seguir.",
+    "avatar": "https://i.pravatar.cc/150?img=52",
+    "rating": 5,
+    "is_active": true
+  }
+]

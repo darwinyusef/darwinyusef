@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "¿Qué Hacer en Crisis?",
+    "description": "Un episodio real sobre cómo enfrentar situaciones de crisis desde una perspectiva práctica y transformadora.",
+    "duration": "31:12",
+    "audio_url": "/quehacerencrisis.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-11-24T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "title": "Código y Aves",
+    "description": "Exploramos cómo la programación se inspira en la naturaleza para resolver problemas complejos.",
+    "duration": "28:12",
+    "audio_url": "/audio/podcast-2.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-08-05T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "title": "Picos y Algoritmos",
+    "description": "Un análisis profundo de algoritmos de machine learning explicados con metáforas de aves.",
+    "duration": "40:00",
+    "audio_url": "/audio/podcast-3.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-08-10T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "title": "Migraciones Digitales",
+    "description": "Cómo los datos se entre sistemas, y qué podemos aprender de las rutas migratorias de las aves.",
+    "duration": "35:20",
+    "audio_url": "/audio/podcast-4.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-08-15T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "title": "Nidos de Innovación",
+    "description": "Charlas sobre startups tecnológicas y cómo se construyen equipos desde cero.",
+    "duration": "27:55",
+    "audio_url": "/audio/podcast-5.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-08-20T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "title": "Plumas de Productividad",
+    "description": "Consejos para ser más productivo en el trabajo, integrando hábitos inspirados en el mundo natural.",
+    "duration": "22:10",
+    "audio_url": "/audio/podcast-6.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-08-25T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "title": "Pájaro Arquitecto",
+    "description": "Arquitectura de software explicada con la analogía de construir nidos estructurados.",
+    "duration": "45:00",
+    "audio_url": "/audio/podcast-7.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-08-30T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "title": "Cantos del Cloud",
+    "description": "Todo sobre computación en la nube, DevOps y microservicios.",
+    "duration": "38:30",
+    "audio_url": "/audio/podcast-8.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-09-04T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "title": "Alas de Alta Disponibilidad",
+    "description": "Cómo diseñar sistemas resilientes y altamente disponibles.",
+    "duration": "41:45",
+    "audio_url": "/audio/podcast-9.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-09-09T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "title": "Vuelo Seguro",
+    "description": "Seguridad informática desde la perspectiva del vuelo y la protección natural de las aves.",
+    "duration": "30:00",
+    "audio_url": "/audio/podcast-10.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-09-14T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "title": "Ala de UX/UI",
+    "description": "Diseño de experiencias de usuario tomando inspiración de la elegancia del vuelo de aves.",
+    "duration": "33:20",
+    "audio_url": "/audio/podcast-11.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-09-19T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "title": "Cantando en Bajo Código",
+    "description": "Podcaste donde se habla de low-code / no-code y cómo democratizar el desarrollo.",
+    "duration": "26:50",
+    "audio_url": "/audio/podcast-12.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-09-24T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "title": "Plumas y Patrones de Diseño",
+    "description": "Patrones de diseño de software explicados con analogías del plumaje y comportamiento de aves.",
+    "duration": "42:10",
+    "audio_url": "/audio/podcast-13.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-09-29T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "title": "Pájaros del Framework",
+    "description": "Comparación entre los frameworks más usados en backend y frontend, usando metáforas de especies de aves.",
+    "duration": "39:30",
+    "audio_url": "/audio/podcast-14.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-10-04T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "title": "Aves Autónomas",
+    "description": "Automatización de tareas y bots: cómo hacer que tus sistemas vuelen solos.",
+    "duration": "31:40",
+    "audio_url": "/audio/podcast-15.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-10-09T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "title": "Alas de Big Data",
+    "description": "Cómo manejar grandes volúmenes de datos, infraestructuras y herramientas como Hadoop o Spark.",
+    "duration": "44:00",
+    "audio_url": "/audio/podcast-16.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-10-14T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "title": "Migración de Bandadas",
+    "description": "Migración de bases de datos y estrategias para mover datos entre entornos.",
+    "duration": "37:25",
+    "audio_url": "/audio/podcast-17.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-10-19T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "title": "Canto de Microservicios",
+    "description": "Los principios arquitectónicos de los microservicios explicados con analogías de llamadas entre aves.",
+    "duration": "43:15",
+    "audio_url": "/audio/podcast-18.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-10-24T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 19,
+    "title": "Pájaro Líder",
+    "description": "Liderazgo técnico: cómo guiar tu equipo para que vuele alto y junto.",
+    "duration": "29:50",
+    "audio_url": "/audio/podcast-19.mp3",
+    "cover_image": "https://pngimg_com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-10-29T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "title": "Alas de Cultura Dev",
+    "description": "Cultura de equipo, DevOps y cómo construir un entorno saludable para desarrolladores.",
+    "duration": "34:00",
+    "audio_url": "/audio/podcast-20.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-11-03T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 21,
+    "title": "Trinos Técnicos",
+    "description": "Actualidad tecnológica en pequeños episodios: noticias, tendencias y tips.",
+    "duration": "15:00",
+    "audio_url": "/audio/podcast-21.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-11-08T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 22,
+    "title": "Ala de Startups",
+    "description": "Emprendimiento tech: historias, fracasos y victorias de fundadores.",
+    "duration": "36:45",
+    "audio_url": "/audio/podcast-22.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-11-13T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 23,
+    "title": "Vuelos Sostenibles",
+    "description": "Tecnología verde: cómo construir software con bajo impacto ambiental.",
+    "duration": "39:10",
+    "audio_url": "/audio/podcast-23.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-11-18T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 24,
+    "title": "Pájaros y Privacidad",
+    "description": "Privacidad y protección de datos explicada con similitudes con el instinto protector de las aves.",
+    "duration": "31:00",
+    "audio_url": "/audio/podcast-24.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-11-23T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 25,
+    "title": "Alas de Datos Abiertos",
+    "description": "Open Data, datos abiertos y su impacto social, contados con metáforas aladas.",
+    "duration": "42:20",
+    "audio_url": "/audio/podcast-25.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-11-28T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 26,
+    "title": "Vuelo ML / IA",
+    "description": "Machine Learning e inteligencia artificial: lo último en modelos y aplicaciones.",
+    "duration": "45:50",
+    "audio_url": "/audio/podcast-26.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-12-03T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 27,
+    "title": "Pájaros de Blockchain",
+    "description": "Blockchain y criptomonedas explicadas con metáforas de nidos, bandadas y rutas migratorias.",
+    "duration": "38:00",
+    "audio_url": "/audio/podcast-27.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-12-08T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 28,
+    "title": "Alas Agiles",
+    "description": "Agile, Scrum y Kanban desde una perspectiva natural: cómo los pájaros organizan sus vuelos.",
+    "duration": "29:30",
+    "audio_url": "/audio/podcast-28.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-12-13T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 29,
+    "title": "Picos de Product-Market Fit",
+    "description": "Cómo encontrar product-market fit para tu idea tech, usando rutas migratorias como analogía.",
+    "duration": "34:45",
+    "audio_url": "/audio/podcast-29.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-12-18T10:00:00Z",
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "title": "Cantos Finales",
+    "description": "Resumen del año: las lecciones más importantes del podcast y planes para el próximo año.",
+    "duration": "25:00",
+    "audio_url": "/audio/podcast-30.mp3",
+    "cover_image": "https://pngimg.com/uploads/birds/birds_PNG106.png",
+    "pubDate": "2025-12-23T10:00:00Z",
+    "is_active": true
+  }
+]
