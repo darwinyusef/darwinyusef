@@ -5,7 +5,7 @@
     "category": "Lenguaje",
     "proficiency": 95,
     "yearsOfExperience": 8,
-    [cite_start]"description": "Desarrollo backend con FastAPI y Django[cite: 80]. Especializado en IA/ML (TensorFlow, PyTorch, scikit-learn). Utilizado para crear plugins en Masec, un sistema de gestión de volquetas y en la migración de mi sistema educativo propio, integrando agentes con LangChain y LangGraph. Orientado a la Arquitectura de Software con IA.",
+    "description": "Desarrollo backend con FastAPI y Django[cite: 80]. Especializado en IA/ML (TensorFlow, PyTorch, scikit-learn). Utilizado para crear plugins en Masec, un sistema de gestión de volquetas y en la migración de mi sistema educativo propio, integrando agentes con LangChain y LangGraph. Orientado a la Arquitectura de Software con IA.",
     "icon": "https://svgl.app/library/python.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -16,7 +16,7 @@
     "category": "Lenguaje",
     "proficiency": 95,
     "yearsOfExperience": 12,
-    "description": "Experto en Vanilla JS (desde el técnico en sistemas), frameworks modernos (React, Angular, Next.js) y Node.js backend (Express). Usado inicialmente para maquetación, y actualmente como base para interfaces de React. [cite_start]Dominio integral Full-Stack. [cite: 81]",
+    "description": "Experto en Vanilla JS (desde el técnico en sistemas), frameworks modernos (React, Angular, Next.js) y Node.js backend (Express). Usado inicialmente para maquetación, y actualmente como base para interfaces de React. Dominio integral Full-Stack. [cite: 81]",
     "icon": "https://svgl.app/library/javascript.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -27,7 +27,7 @@
     "category": "Lenguaje",
     "proficiency": 95,
     "yearsOfExperience": 17,
-    "description": "Dominio desde el año 2001 (colegio). Maquetación semántica, responsive design y preprocesadores (SASS). [cite_start]Experiencia con frameworks CSS (Tailwind CSS, Material UI, Bootstrap) y Styled Components. [cite: 81, 98]",
+    "description": "Dominio desde el año 2001 (colegio). Maquetación semántica, responsive design y preprocesadores (SASS). Experiencia con frameworks CSS (Tailwind CSS, Material UI, Bootstrap) y Styled Components. [cite: 81, 98]",
     "icon": "https://svgl.app/library/html.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -38,7 +38,7 @@
     "category": "Lenguaje",
     "proficiency": 92,
     "yearsOfExperience": 6,
-    [cite_start]"description": "Desarrollo Full-Stack con Node.js (NestJS), React, Next.js y Angular[cite: 80, 81]. Clave en mi trabajo en Tres Astronautas y en la creación de sistemas distribuidos, asegurando robustez y tipado estático.",
+    "description": "Desarrollo Full-Stack con Node.js (NestJS), React, Next.js y Angular[cite: 80, 81]. Clave en mi trabajo en Tres Astronautas y en la creación de sistemas distribuidos, asegurando robustez y tipado estático.",
     "icon": "https://svgl.app/library/typescript.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -49,7 +49,7 @@
     "category": "Lenguaje",
     "proficiency": 90,
     "yearsOfExperience": 10,
-    [cite_start]"description": "Experto en MySQL, PostgreSQL, MariaDB, Oracle y SQL Server[cite: 84]. Utilizado en sistemas de nómina (Alcanos), gestión de volquetas (Masec) y modelado de datos. Fuerte en optimización de queries y diseño de esquemas.",
+    "description": "Experto en MySQL, PostgreSQL, MariaDB, Oracle y SQL Server[cite: 84]. Utilizado en sistemas de nómina (Alcanos), gestión de volquetas (Masec) y modelado de datos. Fuerte en optimización de queries y diseño de esquemas.",
     "icon": "https://svgl.app/library/postgresql.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -60,7 +60,7 @@
     "category": "Lenguaje",
     "proficiency": 85,
     "yearsOfExperience": 5,
-    "description": "Uso académico (Universidad/SENA) y profesional en backend. [cite_start]Experiencia con Spring Boot (1.5 años)[cite: 80]. Aplicado en la creación de un sistema gigante de nómina para Alcanos de Colombia. Actualmente explorando Arquitectura Hexagonal y microservicios.",
+    "description": "Uso académico (Universidad/SENA) y profesional en backend. Experiencia con Spring Boot (1.5 años)[cite: 80]. Aplicado en la creación de un sistema gigante de nómina para Alcanos de Colombia. Actualmente explorando Arquitectura Hexagonal y microservicios.",
     "icon": "https://svgl.app/library/java.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -82,7 +82,7 @@
     "category": "Lenguaje",
     "proficiency": 80,
     "yearsOfExperience": 7,
-    "description": "Base de mi carrera. Desarrollo de plugins para WordPress y creación de CMS propio. [cite_start]Experiencia con Laravel y Lumen [cite: 80] para sistemas empresariales a medida (UNAD, Masec).",
+    "description": "Base de mi carrera. Desarrollo de plugins para WordPress y creación de CMS propio. Experiencia con Laravel y Lumen [cite: 80] para sistemas empresariales a medida (UNAD, Masec).",
     "icon": "https://svgl.app/library/php.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -93,7 +93,7 @@
     "category": "Lenguaje",
     "proficiency": 75,
     "yearsOfExperience": 2,
-    "description": "Desarrollo Android nativo. Utilizado para crear una aplicación móvil de especialización. [cite_start]Actualmente retomando el desarrollo con Jetpack Compose [cite: 82, 98] y enfoque en arquitectura MVVM.",
+    "description": "Desarrollo Android nativo. Utilizado para crear una aplicación móvil de especialización. Actualmente retomando el desarrollo con Jetpack Compose [cite: 82, 98] y enfoque en arquitectura MVVM.",
     "icon": "https://svgl.app/library/kotlin.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -104,7 +104,7 @@
     "category": "Lenguaje",
     "proficiency": 70,
     "yearsOfExperience": 2,
-    [cite_start]"description": "Desarrollo iOS nativo con Swift UI[cite: 82, 98]. Parte de la visión estratégica de 2026 para desarrollar aplicaciones nativas de alta calidad para mi startup y academia.",
+    "description": "Desarrollo iOS nativo con Swift UI[cite: 82, 98]. Parte de la visión estratégica de 2026 para desarrollar aplicaciones nativas de alta calidad para mi startup y academia.",
     "icon": "https://svgl.app/library/swift.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -115,7 +115,7 @@
     "category": "Lenguaje",
     "proficiency": 70,
     "yearsOfExperience": 2,
-    "description": "Servicios de alta concurrencia y sistemas distribuidos. [cite_start]Experiencia con GIN y Fiber (1.5 años)[cite: 80]. Utilizado con Docker para crear herramientas de convergencia de eventos y microservicios de alto rendimiento.",
+    "description": "Servicios de alta concurrencia y sistemas distribuidos. Experiencia con GIN y Fiber (1.5 años)[cite: 80]. Utilizado con Docker para crear herramientas de convergencia de eventos y microservicios de alto rendimiento.",
     "icon": "https://svgl.app/library/go.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -126,7 +126,7 @@
     "category": "Frameworks Frontend",
     "proficiency": 95,
     "yearsOfExperience": 4,
-    [cite_start]"description": "Framework CSS utility-first para diseño rápido, responsive y maquetación de alta calidad. [cite: 98]",
+    "description": "Framework CSS utility-first para diseño rápido, responsive y maquetación de alta calidad. [cite: 98]",
     "icon": "https://svgl.app/library/tailwindcss.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -137,7 +137,7 @@
     "category": "Frameworks Frontend",
     "proficiency": 95,
     "yearsOfExperience": 7,
-    "description": "Desarrollo de interfaces modernas (hooks, Context API). [cite_start]Utilizado en mi proyecto académico, en la migración de mi sistema educativo y en la creación de tutoriales. [cite: 81, 107]",
+    "description": "Desarrollo de interfaces modernas (hooks, Context API). Utilizado en mi proyecto académico, en la migración de mi sistema educativo y en la creación de tutoriales. [cite: 81, 107]",
     "icon": "https://svgl.app/library/react.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -148,7 +148,7 @@
     "category": "Frameworks Frontend",
     "proficiency": 90,
     "yearsOfExperience": 5,
-    [cite_start]"description": "SSR, SSG, API routes y optimización de rendimiento para aplicaciones React escalables. [cite: 81]",
+    "description": "SSR, SSG, API routes y optimización de rendimiento para aplicaciones React escalables. [cite: 81]",
     "icon": "https://svgl.app/library/nextjs.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -170,7 +170,7 @@
     "category": "Frameworks Frontend",
     "proficiency": 85,
     "yearsOfExperience": 6,
-    [cite_start]"description": "Framework completo (TypeScript) de Nivel Alto[cite: 81]. Utilizado en proyectos enterprise (Alcanos de Colombia, Tres Astronautas) y en la Universidad de Ibagué. Dominio en su ecosistema, incluyendo RxJS.",
+    "description": "Framework completo (TypeScript) de Nivel Alto[cite: 81]. Utilizado en proyectos enterprise (Alcanos de Colombia, Tres Astronautas) y en la Universidad de Ibagué. Dominio en su ecosistema, incluyendo RxJS.",
     "icon": "https://svgl.app/library/angular.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -181,7 +181,7 @@
     "category": "Frameworks Backend",
     "proficiency": 95,
     "yearsOfExperience": 4,
-    "description": "Framework moderno de Python para APIs de alto rendimiento con validación automática. [cite_start]Clave en mi stack backend actual para proyectos que requieren velocidad y eficiencia. [cite: 80]",
+    "description": "Framework moderno de Python para APIs de alto rendimiento con validación automática. Clave en mi stack backend actual para proyectos que requieren velocidad y eficiencia. [cite: 80]",
     "icon": "https://svgl.app/library/fastapi.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -192,7 +192,7 @@
     "category": "Frameworks Backend",
     "proficiency": 90,
     "yearsOfExperience": 7,
-    "description": "Framework minimalista de Node.js. Utilizado académicamente en el SENA. [cite_start]Experiencia en la creación de APIs y aplicaciones web robustas. [cite: 80]",
+    "description": "Framework minimalista de Node.js. Utilizado académicamente en el SENA. Experiencia en la creación de APIs y aplicaciones web robustas. [cite: 80]",
     "icon": "https://svgl.app/library/express.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -203,7 +203,7 @@
     "category": "Frameworks Backend",
     "proficiency": 88,
     "yearsOfExperience": 6,
-    "description": "Framework web completo de Python (ORM potente, admin integrado). [cite_start]Utilizado para el desarrollo de varios proyectos pequeños, demostrando dominio de un entorno Full-Stack en Python. [cite: 80]",
+    "description": "Framework web completo de Python (ORM potente, admin integrado). Utilizado para el desarrollo de varios proyectos pequeños, demostrando dominio de un entorno Full-Stack en Python. [cite: 80]",
     "icon": "https://svgl.app/library/django.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -225,7 +225,7 @@
     "category": "Frameworks Backend",
     "proficiency": 85,
     "yearsOfExperience": 3,
-    "description": "Framework Node.js con TypeScript inspirado en Angular. [cite_start]Trabajé con él en Tres Astronautas para el desarrollo backend escalable. [cite: 80]",
+    "description": "Framework Node.js con TypeScript inspirado en Angular. Trabajé con él en Tres Astronautas para el desarrollo backend escalable. [cite: 80]",
     "icon": "https://svgl.app/library/nestjs.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -236,7 +236,7 @@
     "category": "Frameworks Backend",
     "proficiency": 82,
     "yearsOfExperience": 4,
-    "description": "Framework Java enterprise. [cite_start]Experiencia de 1.5 años en aplicaciones empresariales, incluyendo el sistema gigante de nómina. [cite: 80]",
+    "description": "Framework Java enterprise. Experiencia de 1.5 años en aplicaciones empresariales, incluyendo el sistema gigante de nómina. [cite: 80]",
     "icon": "https://svgl.app/library/springboot.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -247,7 +247,7 @@
     "category": "Frameworks Backend",
     "proficiency": 80,
     "yearsOfExperience": 5,
-    "description": "Framework PHP elegante. Creación de mi propio CMS, desarrollo de sistemas educativos y de marketing. [cite_start]Dominio de Eloquent, routing y autenticación. [cite: 80]",
+    "description": "Framework PHP elegante. Creación de mi propio CMS, desarrollo de sistemas educativos y de marketing. Dominio de Eloquent, routing y autenticación. [cite: 80]",
     "icon": "https://svgl.app/library/laravel.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -258,7 +258,7 @@
     "category": "Mobile",
     "proficiency": 78,
     "yearsOfExperience": 3,
-    "description": "Desarrollo móvil multiplataforma con React para iOS y Android. [cite_start]Aprendido y utilizado en la especialización tecnológica. [cite: 82]",
+    "description": "Desarrollo móvil multiplataforma con React para iOS y Android. Aprendido y utilizado en la especialización tecnológica. [cite: 82]",
     "icon": "https://svgl.app/library/react.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -269,7 +269,7 @@
     "category": "Mobile",
     "proficiency": 75,
     "yearsOfExperience": 2,
-    "description": "Toolkit moderno de Android para UI declarativa con Kotlin. [cite_start]Parte de mi enfoque en desarrollo móvil nativo moderno. [cite: 82, 98]",
+    "description": "Toolkit moderno de Android para UI declarativa con Kotlin. Parte de mi enfoque en desarrollo móvil nativo moderno. [cite: 82, 98]",
     "icon": "https://svgl.app/library/android.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -280,7 +280,7 @@
     "category": "Mobile",
     "proficiency": 70,
     "yearsOfExperience": 2,
-    "description": "Framework declarativo de Apple para interfaces iOS, macOS y watchOS. [cite_start]Parte del plan estratégico 2026 para el desarrollo móvil nativo. [cite: 82, 98]",
+    "description": "Framework declarativo de Apple para interfaces iOS, macOS y watchOS. Parte del plan estratégico 2026 para el desarrollo móvil nativo. [cite: 82, 98]",
     "icon": "https://svgl.app/library/swift.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -291,7 +291,7 @@
     "category": "IA/Machine Learning",
     "proficiency": 92,
     "yearsOfExperience": 2,
-    "description": "Integración de GPT-4, DALL-E y Whisper para aplicaciones de IA generativa. [cite_start]Uso diario en proyectos personales y en la aplicación de conocimientos en cursos del SENA. [cite: 92]",
+    "description": "Integración de GPT-4, DALL-E y Whisper para aplicaciones de IA generativa. Uso diario en proyectos personales y en la aplicación de conocimientos en cursos del SENA. [cite: 92]",
     "icon": "https://svgl.app/library/openai.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -302,7 +302,7 @@
     "category": "IA/Machine Learning",
     "proficiency": 90,
     "yearsOfExperience": 2,
-    "description": "Framework para desarrollar aplicaciones con LLMs, agentes (LangGraph) y RAG. [cite_start]Utilizado en la migración de mi sistema educativo para integrar Inteligencia Artificial. [cite: 93]",
+    "description": "Framework para desarrollar aplicaciones con LLMs, agentes (LangGraph) y RAG. Utilizado en la migración de mi sistema educativo para integrar Inteligencia Artificial. [cite: 93]",
     "icon": "https://svgl.app/library/langchain.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -324,7 +324,7 @@
     "category": "IA/Machine Learning",
     "proficiency": 85,
     "yearsOfExperience": 4,
-    [cite_start]"description": "Framework de Google para deep learning y redes neuronales, incluyendo TensorFlow Microservices[cite: 94]. [cite_start]Utilizado en proyectos de ML personales y estudio formal de Visión por Computadora. [cite: 94]",
+    "description": "Framework de Google para deep learning y redes neuronales, incluyendo TensorFlow Microservices[cite: 94]. Utilizado en proyectos de ML personales y estudio formal de Visión por Computadora. [cite: 94]",
     "icon": "https://svgl.app/library/tensorflow.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -335,7 +335,7 @@
     "category": "IA/Machine Learning",
     "proficiency": 82,
     "yearsOfExperience": 3,
-    "description": "Framework de Facebook para investigación en deep learning. Aplicado en proyectos personales de ML. [cite_start]Parte de mi base sólida en Machine Learning junto con scikit-learn. [cite: 94]",
+    "description": "Framework de Facebook para investigación en deep learning. Aplicado en proyectos personales de ML. Parte de mi base sólida en Machine Learning junto con scikit-learn. [cite: 94]",
     "icon": "https://svgl.app/library/pytorch.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -346,7 +346,7 @@
     "category": "DevOps",
     "proficiency": 95,
     "yearsOfExperience": 12,
-    "description": "Control de versiones, branching strategies, CI/CD y colaboración en equipo. [cite_start]Dominio en entornos profesionales para la gestión de código y despliegues. [cite: 86]",
+    "description": "Control de versiones, branching strategies, CI/CD y colaboración en equipo. Dominio en entornos profesionales para la gestión de código y despliegues. [cite: 86]",
     "icon": "https://svgl.app/library/git.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -357,7 +357,7 @@
     "category": "DevOps",
     "proficiency": 90,
     "yearsOfExperience": 6,
-    "description": "Containerización de aplicaciones. Utilizado activamente con Go (Golang) y en entornos de microservicios. [cite_start]Asegura la portabilidad y la eficiencia en CI/CD. [cite: 85]",
+    "description": "Containerización de aplicaciones. Utilizado activamente con Go (Golang) y en entornos de microservicios. Asegura la portabilidad y la eficiencia en CI/CD. [cite: 85]",
     "icon": "https://svgl.app/library/docker.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -368,7 +368,7 @@
     "category": "DevOps",
     "proficiency": 82,
     "yearsOfExperience": 5,
-    [cite_start]"description": "Servicios cloud: EC2, S3 y otros[cite: 85]. Experiencia en la migración de proyectos desde servidores tradicionales a soluciones Cloud y en el trabajo con múltiples servicios para la arquitectura de software.",
+    "description": "Servicios cloud: EC2, S3 y otros[cite: 85]. Experiencia en la migración de proyectos desde servidores tradicionales a soluciones Cloud y en el trabajo con múltiples servicios para la arquitectura de software.",
     "icon": "https://svgl.app/library/aws.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -379,7 +379,7 @@
     "category": "Database",
     "proficiency": 90,
     "yearsOfExperience": 8,
-    "description": "Base de datos relacional avanzada. Preferida en mi stack actual (Python/Go). [cite_start]Fuerte en optimización y diseño de esquemas. [cite: 84]",
+    "description": "Base de datos relacional avanzada. Preferida en mi stack actual (Python/Go). Fuerte en optimización y diseño de esquemas. [cite: 84]",
     "icon": "https://svgl.app/library/postgresql.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -390,7 +390,7 @@
     "category": "Database",
     "proficiency": 88,
     "yearsOfExperience": 10,
-    "description": "Base de datos relacional popular. [cite_start]Principalmente utilizada con PHP/Laravel en sistemas de inventario y gestión documental. [cite: 84]",
+    "description": "Base de datos relacional popular. Principalmente utilizada con PHP/Laravel en sistemas de inventario y gestión documental. [cite: 84]",
     "icon": "https://svgl.app/library/mysql.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -401,7 +401,7 @@
     "category": "Database",
     "proficiency": 82,
     "yearsOfExperience": 5,
-    "description": "Base de datos NoSQL orientada a documentos flexible y escalable. [cite_start]Utilizada en proyectos que requieren esquemas dinámicos. [cite: 84]",
+    "description": "Base de datos NoSQL orientada a documentos flexible y escalable. Utilizada en proyectos que requieren esquemas dinámicos. [cite: 84]",
     "icon": "https://svgl.app/library/mongodb.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -412,7 +412,7 @@
     "category": "Database",
     "proficiency": 80,
     "yearsOfExperience": 4,
-    "description": "Cache en memoria, pub/sub, sessions y estructura de datos rápida. [cite_start]Fundamental para optimizar el rendimiento de aplicaciones de alto tráfico y backend. [cite: 86]",
+    "description": "Cache en memoria, pub/sub, sessions y estructura de datos rápida. Fundamental para optimizar el rendimiento de aplicaciones de alto tráfico y backend. [cite: 86]",
     "icon": "https://svgl.app/library/redis.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -423,7 +423,7 @@
     "category": "IA/Machine Learning",
     "proficiency": 90,
     "yearsOfExperience": 2,
-    "description": "Framework avanzado para diseñar la lógica de agentes de IA y la gestión de multi-agentes. [cite_start]Utilizado en la migración de mi sistema educativo para integrar la Inteligencia Artificial. [cite: 54, 93]",
+    "description": "Framework avanzado para diseñar la lógica de agentes de IA y la gestión de multi-agentes. Utilizado en la migración de mi sistema educativo para integrar la Inteligencia Artificial. [cite: 54, 93]",
     "icon": "https://svgl.app/library/langchain.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -434,7 +434,7 @@
     "category": "Herramientas",
     "proficiency": 90,
     "yearsOfExperience": 7,
-    "description": "Herramienta de gestión de proyectos y seguimiento de tareas. [cite_start]Dominio en el uso para metodologías Scrum/Kanban y en la documentación del ciclo de vida del software. [cite: 86, 89]",
+    "description": "Herramienta de gestión de proyectos y seguimiento de tareas. Dominio en el uso para metodologías Scrum/Kanban y en la documentación del ciclo de vida del software. [cite: 86, 89]",
     "icon": "https://svgl.app/library/jira.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -445,7 +445,7 @@
     "category": "DevOps",
     "proficiency": 95,
     "yearsOfExperience": 12,
-    "description": "Plataforma de control de versiones líder. Uso diario para control de código, colaboración en equipo y flujos de trabajo de CI/CD. [cite_start]Complementa mi experiencia con Git. [cite: 86]",
+    "description": "Plataforma de control de versiones líder. Uso diario para control de código, colaboración en equipo y flujos de trabajo de CI/CD. Complementa mi experiencia con Git. [cite: 86]",
     "icon": "https://svgl.app/library/github.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -467,7 +467,7 @@
     "category": "Testing",
     "proficiency": 90,
     "yearsOfExperience": 4,
-    "description": "Framework de testing para Python. [cite_start]Clave para asegurar la calidad en proyectos backend con FastAPI y Django. [cite: 89]",
+    "description": "Framework de testing para Python. Clave para asegurar la calidad en proyectos backend con FastAPI y Django. [cite: 89]",
     "icon": "https://svgl.app/library/pytest.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -478,7 +478,7 @@
     "category": "Testing",
     "proficiency": 90,
     "yearsOfExperience": 7,
-    "description": "Framework de testing de JavaScript. [cite_start]Utilizado para testing unitario y de integración en proyectos de React y Node.js (Express, NestJS). [cite: 89]",
+    "description": "Framework de testing de JavaScript. Utilizado para testing unitario y de integración en proyectos de React y Node.js (Express, NestJS). [cite: 89]",
     "icon": "https://svgl.app/library/jest.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -500,7 +500,7 @@
     "category": "Testing",
     "proficiency": 85,
     "yearsOfExperience": 3,
-    [cite_start]"description": "Herramienta de automatización y testing end-to-end (E2E) para aplicaciones web. [cite: 89]",
+    "description": "Herramienta de automatización y testing end-to-end (E2E) para aplicaciones web. [cite: 89]",
     "icon": "https://svgl.app/library/playwright.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -522,7 +522,7 @@
     "category": "Frameworks Frontend",
     "proficiency": 80,
     "yearsOfExperience": 6,
-    "description": "Librería para la programación reactiva. [cite_start]Esencial en mi desarrollo con Angular para el manejo de flujos de datos y estado asíncrono. [cite: 81]",
+    "description": "Librería para la programación reactiva. Esencial en mi desarrollo con Angular para el manejo de flujos de datos y estado asíncrono. [cite: 81]",
     "icon": "https://svgl.app/library/rxjs.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -555,7 +555,7 @@
     "category": "CMS",
     "proficiency": 90,
     "yearsOfExperience": 7,
-    [cite_start]"description": "Sistema de gestión de contenidos (CMS) con el que creé sitios web, plugins personalizados y sistemas de inventario para pequeñas empresas. [cite: 9, 12, 99]",
+    "description": "Sistema de gestión de contenidos (CMS) con el que creé sitios web, plugins personalizados y sistemas de inventario para pequeñas empresas. [cite: 9, 12, 99]",
     "icon": "https://svgl.app/library/wordpress.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -566,7 +566,7 @@
     "category": "CMS",
     "proficiency": 80,
     "yearsOfExperience": 5,
-    [cite_start]"description": "Sistema de gestión de contenidos (CMS) utilizado en mis inicios como diseñador web y en proyectos para instituciones. [cite: 8, 26, 99]",
+    "description": "Sistema de gestión de contenidos (CMS) utilizado en mis inicios como diseñador web y en proyectos para instituciones. [cite: 8, 26, 99]",
     "icon": "https://svgl.app/library/joomla.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -577,7 +577,7 @@
     "category": "Herramientas",
     "proficiency": 85,
     "yearsOfExperience": 5,
-    "description": "Herramienta de productividad y gestión de conocimiento. [cite_start]Uso para documentación, organización de proyectos (incluyendo JIRA/Confluence) y planificación de estrategias. [cite: 89]",
+    "description": "Herramienta de productividad y gestión de conocimiento. Uso para documentación, organización de proyectos (incluyendo JIRA/Confluence) y planificación de estrategias. [cite: 89]",
     "icon": "https://svgl.app/library/notion.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -588,7 +588,7 @@
     "category": "Herramientas",
     "proficiency": 75,
     "yearsOfExperience": 2,
-    "description": "Herramienta basada en Markdown para la gestión de conocimiento personal y documentación técnica. [cite_start]Uso activo para la creación y vinculación de notas. [cite: 55]",
+    "description": "Herramienta basada en Markdown para la gestión de conocimiento personal y documentación técnica. Uso activo para la creación y vinculación de notas. [cite: 55]",
     "icon": "https://svgl.app/library/obsidian.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
@@ -621,8 +621,249 @@
     "category": "Database",
     "proficiency": 82,
     "yearsOfExperience": 5,
-    "description": "Base de datos NoSQL clave-valor de AWS. [cite_start]Utilizada para soluciones en la nube de alta disponibilidad y escalabilidad, complementando el stack de bases de datos NoSQL (MongoDB). [cite: 84]",
+    "description": "Base de datos NoSQL clave-valor de AWS. Utilizada para soluciones en la nube de alta disponibilidad y escalabilidad, complementando el stack de bases de datos NoSQL (MongoDB). [cite: 84]",
     "icon": "https://svgl.app/library/dynamodb.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  }, {
+    "id": 58,
+    "name": "Firebase",
+    "category": "Database/Cloud",
+    "proficiency": 80,
+    "yearsOfExperience": 4,
+    "description": "Base de datos NoSQL y plataforma Backend as a Service (BaaS) de Google. Utilizado para el desarrollo de aplicaciones web y móviles modernas[cite: 27].",
+    "icon": "https://svgl.app/library/firebase.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 59,
+    "name": "Supabase",
+    "category": "Database/Cloud",
+    "proficiency": 80,
+    "yearsOfExperience": 2,
+    "description": "Plataforma BaaS open source que utiliza PostgreSQL. Implementado en proyectos Full-Stack modernos como alternativa a soluciones proprietarias[cite: 27].",
+    "icon": "https://svgl.app/library/supabase.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 60,
+    "name": "Oracle",
+    "category": "Database",
+    "proficiency": 85,
+    "yearsOfExperience": 6,
+    "description": "Base de datos relacional empresarial. Experiencia en el uso y soporte en proyectos críticos a gran escala, como el sistema de nómina de Alcanos de Colombia[cite: 27].",
+    "icon": "https://svgl.app/library/oracle.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 61,
+    "name": "SQL Server",
+    "category": "Database",
+    "proficiency": 80,
+    "yearsOfExperience": 5,
+    "description": "Base de datos relacional de Microsoft. Utilizado en entornos empresariales y proyectos que requieren alta disponibilidad y escalabilidad[cite: 27].",
+    "icon": "https://svgl.app/library/sqlserver.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 62,
+    "name": "Kubernetes",
+    "category": "DevOps",
+    "proficiency": 70,
+    "yearsOfExperience": 2,
+    "description": "Conocimiento conceptual de orquestación de contenedores. Base para arquitecturas de microservicios y despliegues a gran escala y alta disponibilidad[cite: 28].",
+    "icon": "https://svgl.app/library/kubernetes.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 63,
+    "name": "Linux",
+    "category": "DevOps",
+    "proficiency": 88,
+    "yearsOfExperience": 10,
+    "description": "Sistema operativo para servidores. Base de mi experiencia en administración de sistemas, scripting (Bash/Shell) y despliegues CI/CD[cite: 28].",
+    "icon": "https://svgl.app/library/linux.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 64,
+    "name": "Confluence",
+    "category": "Herramientas",
+    "proficiency": 90,
+    "yearsOfExperience": 7,
+    "description": "Herramienta de colaboración para la documentación de proyectos. Utilizada junto a Jira para documentar la arquitectura, el análisis, el diseño y el ciclo de vida del software[cite: 29, 32].",
+    "icon": "https://svgl.app/library/confluence.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 65,
+    "name": "GitLab",
+    "category": "DevOps",
+    "proficiency": 85,
+    "yearsOfExperience": 6,
+    "description": "Plataforma de control de versiones con enfoque en CI/CD. Utilizado para la gestión de repositorios privados y la automatización de pipelines[cite: 29].",
+    "icon": "https://svgl.app/library/gitlab.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 66,
+    "name": "scikit-learn",
+    "category": "IA/Machine Learning",
+    "proficiency": 85,
+    "yearsOfExperience": 4,
+    "description": "Biblioteca fundamental de Python para Machine Learning clásico. Utilizado para diversos modelos ML y análisis predictivo[cite: 37].",
+    "icon": "https://svgl.app/library/python.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 67,
+    "name": "Pandas",
+    "category": "Análisis de Datos",
+    "proficiency": 90,
+    "yearsOfExperience": 5,
+    "description": "Biblioteca de Python para manipulación y análisis de datos. Esencial en mi trabajo de Ciencia de Datos para la limpieza y preparación de datasets[cite: 38].",
+    "icon": "https://svgl.app/library/pandas.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 68,
+    "name": "NumPy",
+    "category": "Análisis de Datos",
+    "proficiency": 90,
+    "yearsOfExperience": 5,
+    "description": "Biblioteca de Python para computación numérica. Base para el trabajo con modelos ML y operaciones vectoriales de alto rendimiento[cite: 38].",
+    "icon": "https://svgl.app/library/numpy.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 69,
+    "name": "Power BI",
+    "category": "Análisis de Datos",
+    "proficiency": 80,
+    "yearsOfExperience": 4,
+    "description": "Herramienta de Business Intelligence para la visualización y creación de informes interactivos a partir de datos complejos[cite: 38].",
+    "icon": "https://svgl.app/library/powerbi.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 70,
+    "name": "Figma",
+    "category": "Diseño/UX",
+    "proficiency": 90,
+    "yearsOfExperience": 5,
+    "description": "Herramienta líder para diseño UI/UX, prototipado y colaboración. Utilizada para definir la experiencia de usuario en mis aplicaciones[cite: 40].",
+    "icon": "https://svgl.app/library/figma.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 71,
+    "name": "Adobe Premiere",
+    "category": "Multimedia",
+    "proficiency": 90,
+    "yearsOfExperience": 7,
+    "description": "Software de edición de video profesional. Usado para la creación de contenido (más de 70 videos en YouTube) y videos publicitarios[cite: 43, 50].",
+    "icon": "https://svgl.app/library/adobepremiere.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 72,
+    "name": "After Effects",
+    "category": "Multimedia",
+    "proficiency": 85,
+    "yearsOfExperience": 5,
+    "description": "Software para la creación de gráficos en movimiento, efectos visuales y animaciones usadas en contenido digital y tutoriales[cite: 43].",
+    "icon": "https://svgl.app/library/aftereffects.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 73,
+    "name": "Moodle",
+    "category": "CMS",
+    "proficiency": 85,
+    "yearsOfExperience": 6,
+    "description": "Sistema de gestión de aprendizaje (LMS). Utilizado y administrado para plataformas de capacitación y educación en mi rol de educador[cite: 42].",
+    "icon": "https://svgl.app/library/moodle.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 74,
+    "name": "PrestaShop",
+    "category": "CMS",
+    "proficiency": 80,
+    "yearsOfExperience": 5,
+    "description": "Plataforma de comercio electrónico (e-commerce) para la creación de tiendas en línea[cite: 42].",
+    "icon": "https://svgl.app/library/prestashop.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 75,
+    "name": "SuperTest",
+    "category": "Testing",
+    "proficiency": 85,
+    "yearsOfExperience": 5,
+    "description": "Librería para testing de integración de APIs HTTP en Node.js, complementando Jest para el backend[cite: 32].",
+    "icon": "https://svgl.app/library/node-js.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 76,
+    "name": "Cypress",
+    "category": "Testing",
+    "proficiency": 80,
+    "yearsOfExperience": 4,
+    "description": "Herramienta moderna de testing End-to-End (E2E) para automatización de pruebas en aplicaciones web[cite: 32].",
+    "icon": "https://svgl.app/library/cypress.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 77,
+    "name": "Svelte",
+    "category": "Frameworks Frontend",
+    "proficiency": 75,
+    "yearsOfExperience": 1,
+    "description": "Framework de compilación para construir interfaces de usuario de alto rendimiento. Explorando su uso junto a Astro para sitios web[cite: 15, 41].",
+    "icon": "https://svgl.app/library/svelte.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 78,
+    "name": "Supervised Learning",
+    "category": "IA/Machine Learning",
+    "proficiency": 85,
+    "yearsOfExperience": 4,
+    "description": "Dominio de modelos de aprendizaje supervisado, incluyendo uso de algoritmos y librerías como scikit-learn en proyectos de ML[cite: 37].",
+    "icon": "https://svgl.app/library/python.svg",
+    "audioUrl": "/audio/quehacerencrisis.mp3",
+    "is_active": true
+  },
+  {
+    "id": 79,
+    "name": "Unsupervised Learning",
+    "category": "IA/Machine Learning",
+    "proficiency": 80,
+    "yearsOfExperience": 3,
+    "description": "Experiencia con modelos de aprendizaje no supervisado para la identificación de patrones y segmentación en análisis de datos[cite: 37].",
+    "icon": "https://svgl.app/library/python.svg",
     "audioUrl": "/audio/quehacerencrisis.mp3",
     "is_active": true
   }
