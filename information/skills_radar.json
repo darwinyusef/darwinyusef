@@ -1,0 +1,12 @@
+[
+  { id: 1, name: 'Pensamiento Sistémico', category: 'Pensamiento', proficiency: 90, is_active: true },
+  { id: 2, name: 'Decisiones Técnicas', category: 'Pensamiento', proficiency: 88, is_active: true },
+  { id: 3, name: 'Cambio', category: 'Estrategia', proficiency: 86, is_active: true },
+  { id: 4, name: 'Liderazgo', category: 'Liderazgo', proficiency: 85, is_active: true },
+  { id: 5, name: 'Comunicación', category: 'Comunicación', proficiency: 92, is_active: true },
+  { id: 6, name: 'Pensamiento Crítico', category: 'Pensamiento', proficiency: 89, is_active: true },
+  { id: 7, name: 'Influencia', category: 'Liderazgo', proficiency: 84, is_active: true },
+  { id: 8, name: 'Visión', category: 'Estrategia', proficiency: 88, is_active: true },
+  { id: 9, name: 'Trade-offs', category: 'Pensamiento', proficiency: 87, is_active: true },
+  { id: 10, name: 'Emociones', category: 'Emocional', proficiency: 90, is_active: true },
+]
