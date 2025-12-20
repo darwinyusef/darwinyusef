@@ -2,7 +2,7 @@
 
 I design and build AI-driven products, from zero to scale.
 
-Founder (**AquiCreamos**) and **AI Software Architect**, **Software Architect in Progress**, with **17+ years of experience in software engineering** and **5+ years focused on AI architectures, Machine Learning systems, LLMs, and distributed platforms**. I work at the intersection of **research, product, and engineering**, turning ideas into **scalable, ethical, production-ready systems**, with a strong emphasis on **educational products focused on talent and skill development across multiple media**.
+Founder (**AquiCreamos**) and **AI Software Architect** - **Software Architect in Progress**, with **17+ years of experience in software engineering** and **5+ years focused on AI architectures, Machine Learning systems, LLMs, and distributed platforms**. I work at the intersection of **research, product, and engineering**, turning ideas into **scalable, ethical, production-ready systems**, with a strong emphasis on **educational products focused on talent and skill development across multiple media**.
 
 `$ whoami`
 
