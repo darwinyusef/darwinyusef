@@ -1,6 +1,6 @@
 # Content Creation Role
 
-Since 2006, I have developed strong **leadership and communication skills** through teaching. I haven’t just trained new programmers; I’ve also been creating **online content** and driving **digital transformation** in companies.  
+Since 2011, I have developed strong **leadership and communication skills** through teaching. I haven’t just trained new programmers; I’ve also been creating **online content** and driving **digital transformation** in companies.  
 
 I have become a **tech evangelist**, promoting **best practices, quality standards, and innovative tools**, fostering **collaboration and continuous learning** in teams and technical communities. I also run my own **academy for programming and English studies**.
 
