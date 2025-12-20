@@ -33,7 +33,7 @@ I care as much about **why** we build as **how** we build — combining **techni
 ---
 
 
-🏆 [(https://github.com/darwinyusef/darwinyusef/blob/master/metas/2026.md)](https://github.com/darwinyusef/darwinyusef/blob/master/metas/2026.md)
+🏆 [(metas-2026)](https://github.com/darwinyusef/darwinyusef/blob/master/metas/2026.md)
 
 <h3>Contacto</h3>
 <a href="https://github.com/darwinyusef"><img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/></a> 
