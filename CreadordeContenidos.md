@@ -1,8 +1,21 @@
-# Este es mi rol docente
-Desde 2006 he desarrollado habilidades de liderazgo y comunicación a través de la docencia, no solo capacitando a nuevos programadores sino en la creación de contenido online y la transformación digital de las empresas. convirtiendome en un promotor (evangelista de codigo y TI), promuevo buenas prácticas, estándares de calidad y herramientas innovadoras, fomentando la colaboración y el aprendizaje continuo en equipos y comunidades técnicas.
+# Content Creation Role
 
-# Aquicreamos en Youtube
-Tengo un canal de Youtube mi objetivo es cada día ser más visible en la red obteniendo contactos que me permitan desarrollar más el potencial de los demás 
-- Aqui encuentras mi rol de creado de contenidos
+Since 2006, I have developed strong **leadership and communication skills** through teaching. I haven’t just trained new programmers; I’ve also been creating **online content** and driving **digital transformation** in companies.  
 
-Puedes seguirme en mi canal [@Aquicreamos Youtube](https://www.youtube.com/watch?v=5Bl4wnQs5QI)
+I have become a **tech evangelist**, promoting **best practices, quality standards, and innovative tools**, fostering **collaboration and continuous learning** in teams and technical communities. I also run my own **academy for programming and English studies**.
+
+---
+
+## AquiCreamos on YouTube
+
+I run a **YouTube channel** where my goal is to become increasingly visible online, creating connections that allow me to **develop the potential of others**.  
+
+- Here you can see my role as a **content creator**.  
+
+Follow me on my channel: [@AquiCreamos YouTube](https://www.youtube.com/watch?v=5Bl4wnQs5QI)
+
+---
+
+## Podcasts & Audio Content
+
+I also produce **audio content and podcasts**, sharing insights on **programming, AI, and digital transformation**, helping learners and professionals grow in their careers.
