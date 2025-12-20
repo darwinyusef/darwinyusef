@@ -1,102 +1,38 @@
-[<img width="15px" src="https://raw.githubusercontent.com/lipis/flag-icons/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/us.svg"/>](https://github.com/lipis/flag-icons/blob/main/flags/4x3/us.svg ) | [<img width="15px" src="https://raw.githubusercontent.com/lipis/flag-icons/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/co.svg"/>](https://github.com/darwinyusef)
+# Hello, 🥸 I'm Darwin Yusef
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=header"/>
+I design and build AI-driven products, from zero to scale.
 
+Founder (**AquiCreamos**) and **AI Software Architect**, **Software Architect in Progress**, with **17+ years of experience in software engineering** and **5+ years focused on AI architectures, Machine Learning systems, LLMs, and distributed platforms**. I work at the intersection of **research, product, and engineering**, turning ideas into **scalable, ethical, production-ready systems**, with a strong emphasis on **educational products focused on talent and skill development across multiple media**.
 
-<img width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=37&pause=1000&width=1000&height=75&lines=Welcome+to+my+github+profile%2C+I'm+Yusef+Gonzalez" alt="Typing SVG" />
+`$ whoami`
 
+- 🚀 **Founder / Builder of Digital Products** — AquiCreamos
+- 🧠 **Technical Software Architect** — focused on applying AI in projects
+- 🏗️ Designer and Developer of **applications, multi-agent systems, intelligent agents, and ML platforms** using **prompting, LLMs, ML, and DL**
+- ⚙️ Core Stack: **Python · Node.js · Go · React · Angular · Docker · Kubernetes · ML / LLMs**  
+  High experience in **web applications** and **software design**
+- 🧬 Experience with **MLOps, embeddings, RAG pipelines, CI/CD, and cloud-native architectures**
+- 📐 Strong focus on **system design, scalability, observability, and reliability**  
+  Big goal: building for **software architecture with large teams**
 
-## Especialista graduado de IA - Ing de sistemas - Desarrollador Fullstack de Software  **(Architech AI software for the future )**
-Ingeniero de Sistemas & Fullstack Developer con mas de 17 años armando aplicaciones y diseñando experiencias UI/UX. En los últimos 4 años me he concentrado en la arquitectura de software, en amplitud técnica y evangelizando en lenguajes y librerías como Python, Node, React e Inteligencia Artificial.
+I care as much about **why** we build as **how** we build — combining **technical depth, product vision, and long-term impact**.
 
-Mi objetivo: liderar como Arquitecto de Software de IA proyectos de sistemas distribuidos y Multi-agentes, SaaS ML y Moviles. buscando contribuir a la Industria 5.0.  liderando la creación de sistemas innovadores y escalables que transformen digitalmente a las organizaciones. Aspiro a diseñar arquitecturas que integren inteligencia artificial para resolver problemas complejos, automatizar procesos y anticipar las necesidades futuras del mercado, todo ello bajo un enfoque ético y sostenible. Estoy listo para aportar mi experiencia y visión en el diseño de soluciones disruptivas y de alto impacto.
+🔗 **Links**
+
+- 🌐 **Portfolio:** https://darwinyusef.com  
+- 🎙️ **Podcast:** https://darwinyusef.com/poadcast  
+- 📝 **Blog:** https://aquicreamos.com/blog  
+- ▶️ **YouTube:** @aquicreamos  
+- 🧠 **Skills & Languages:** https://darwinyusef.com/skills  
+
+☕ Open to building, advising, and collaborating worldwide.
 
 > Te cuento tambien un poco de mi rol como [Creador de contenidos](https://github.com/darwinyusef/darwinyusef/blob/master/CreadordeContenidos.md)
 
 <h3><a href="https://buymeacoffee.com/aquicreamos"> Toma un cafe con migo  <img height="48px" width="48px" style="filter: brightness(1);" alt="Icone Take a Coffe with me" src="https://svgl.app/library/bmc.svg"/></a> </h3>
 
  
- <h3> Backend programming languages </h3>
- <p>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/> | 
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/> |
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/> | 
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/> 
- </p>
 
- <h3> Frameworks Backend i Use </h3>
- <p>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=fastapi"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/> |
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=spring"/> |
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nest"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=express"/> | 
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=laravel"/>
- </p>
- 
- <h3> Frontend programming languages </h3>
- <p>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>
- </p>
-
-
- <h3> Frameworks and Libraries Frontend i Use </h3>
- <p>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=angular"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nextjs"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=astro"/>
- </p>
-
- <h3> Frontend Tools i Use </h3>
- <p>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwind"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=rxjs"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=redux"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=md"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=styledcomponents"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=materialui"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>
-    <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=wordpress"/>
- </p>
-
-<h3>Others Tools</h3>
-<p>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
- <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
- <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bitbucket"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=aws"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=obsidian"/>
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=notion"/>
-</p>
-
-<h3> Data Bases </h3>
-<p>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sqlite"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=dynamodb"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=firebase"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=redis"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=appwrite"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=supabase"/>
- 
-</p>
-
-<h3> Graphic Design Tools </h3>
-<p>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ai"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ps"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ae"/>
-</p>
 
 
 # 🌱 Actualmente estoy aprendiendo
