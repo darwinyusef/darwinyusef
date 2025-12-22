@@ -1,4 +1,4 @@
-# Hello, 🥸 I'm Yusef Gonzalez
+# Hello, 🤓 I'm Yusef Gonzalez
 
 I design and build AI-driven products, from zero to scale.
 
