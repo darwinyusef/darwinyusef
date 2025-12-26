@@ -21,7 +21,7 @@ Welcome my portfolio
 I care as much about **why** we build as **how** we build — combining **technical depth, product vision, and long-term impact**.
 
 🔗 **Links**
-- 🎙️ **Podcast:** https://darwinyusef.com/poadcast  
+- 🎙️ **Podcast:** https://aquicreamos.com/poadcast  
 - 📝 **Blog:** https://aquicreamos.com/blog  
 - ▶️ **YouTube:** @aquicreamos  
 - 🧠 **Skills & Languages:** https://darwinyusef.com/skills  
