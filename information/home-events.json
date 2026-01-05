@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "type": {
+      "es": "Taller",
+      "en": "Workshop",
+      "pt": "Workshop"
+    },
+    "title": {
+      "es": "Full Stack con React",
+      "en": "Full Stack with React",
+      "pt": "Full Stack com React"
+    },
+    "date": {
+      "day": "15",
+      "month": {
+        "es": "Dic",
+        "en": "Dec",
+        "pt": "Dez"
+      }
+    },
+    "time": "18:00 - 20:00",
+    "location": {
+      "es": "Online",
+      "en": "Online",
+      "pt": "Online"
+    },
+    "buttonText": {
+      "es": "Registrarse",
+      "en": "Register",
+      "pt": "Registrar"
+    },
+    "buttonColor": "bg-red-400",
+    "gradient": "from-primary to-purple-600"
+  },
+  {
+    "id": 2,
+    "type": {
+      "es": "Charla",
+      "en": "Talk",
+      "pt": "Palestra"
+    },
+    "title": {
+      "es": "Arquitectura Escalable",
+      "en": "Scalable Architecture",
+      "pt": "Arquitetura Escalável"
+    },
+    "date": {
+      "day": "22",
+      "month": {
+        "es": "Dic",
+        "en": "Dec",
+        "pt": "Dez"
+      }
+    },
+    "time": "19:00 - 21:00",
+    "location": "Zoom Webinar",
+    "buttonText": {
+      "es": "Reservar Lugar",
+      "en": "Book Seat",
+      "pt": "Reservar Lugar"
+    },
+    "buttonColor": "bg-red-400",
+    "gradient": "from-pink-600 to-purple-600"
+  },
+  {
+    "id": 3,
+    "type": {
+      "es": "Meetup",
+      "en": "Meetup",
+      "pt": "Meetup"
+    },
+    "title": {
+      "es": "Networking Developers",
+      "en": "Developers Networking",
+      "pt": "Networking Developers"
+    },
+    "date": {
+      "day": "28",
+      "month": {
+        "es": "Dic",
+        "en": "Dec",
+        "pt": "Dez"
+      }
+    },
+    "time": "17:00 - 19:00",
+    "location": "Discord Community",
+    "buttonText": {
+      "es": "Unirme",
+      "en": "Join Now",
+      "pt": "Participar"
+    },
+    "buttonColor": "bg-red-400",
+    "gradient": "from-purple-600 to-primary"
+  }
+]

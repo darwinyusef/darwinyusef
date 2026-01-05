@@ -1,0 +1,415 @@
+[
+  {
+    "id": 1,
+    "icon": "rocket_launch",
+    "gradient": "from-primary to-purple-600",
+    "videoUrl": "https://youtube.com/shorts/4d_K-DYSi5M",
+    "videoTitle": {
+      "es": "Proceso de Contratación",
+      "en": "Hiring Process",
+      "pt": "Processo de Contratação"
+    },
+    "question": {
+      "es": "¿Cómo inicio un proyecto contigo?",
+      "en": "How do I start a project with you?",
+      "pt": "Como inicio um projeto com você?"
+    },
+    "subtitle": {
+      "es": "Proceso de contratación y primeros pasos",
+      "en": "Hiring process and first steps",
+      "pt": "Processo de contratação e primeiros passos"
+    },
+    "answer": {
+      "intro": {
+        "es": "El proceso es simple y transparente:",
+        "en": "The process is simple and transparent:",
+        "pt": "O processo é simples e transparente:"
+      },
+      "steps": [
+        {
+          "title": {
+            "es": "Contacto inicial:",
+            "en": "Initial contact:",
+            "pt": "Contato inicial:"
+          },
+          "description": {
+            "es": "Completa el formulario de contacto o escríbeme directamente.",
+            "en": "Fill out the contact form or write to me directly.",
+            "pt": "Preencha o formulário de contato ou escreva-me diretamente."
+          }
+        },
+        {
+          "title": {
+            "es": "Reunión discovery:",
+            "en": "Discovery meeting:",
+            "pt": "Reunião de descoberta:"
+          },
+          "description": {
+            "es": "Agendamos una videollamada para entender tus necesidades, objetivos y contexto técnico.",
+            "en": "We schedule a video call to understand your needs, goals and technical context.",
+            "pt": "Agendamos uma videochamada para entender suas necessidades, objetivos e contexto técnico."
+          }
+        },
+        {
+          "title": {
+            "es": "Propuesta técnica:",
+            "en": "Technical proposal:",
+            "pt": "Proposta técnica:"
+          },
+          "description": {
+            "es": "Elaboro una propuesta detallada con alcance, tecnologías, timeline y presupuesto.",
+            "en": "I prepare a detailed proposal with scope, technologies, timeline and budget.",
+            "pt": "Elaboro uma proposta detalhada com escopo, tecnologias, cronograma e orçamento."
+          }
+        },
+        {
+          "title": {
+            "es": "Inicio del proyecto:",
+            "en": "Project kickoff:",
+            "pt": "Início do projeto:"
+          },
+          "description": {
+            "es": "Una vez aprobada, iniciamos con metodologías ágiles y comunicación continua.",
+            "en": "Once approved, we start with agile methodologies and continuous communication.",
+            "pt": "Uma vez aprovada, iniciamos com metodologias ágeis e comunicação contínua."
+          }
+        }
+      ],
+      "cta": {
+        "text": {
+          "es": "Iniciar conversación",
+          "en": "Start conversation",
+          "pt": "Iniciar conversa"
+        },
+        "link": "#contact"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "icon": "school",
+    "gradient": "from-green-600 to-emerald-600",
+    "videoUrl": "https://youtube.com/shorts/4d_K-DYSi5M",
+    "videoTitle": {
+      "es": "Mentoring y Coaching",
+      "en": "Mentoring and Coaching",
+      "pt": "Mentoria e Coaching"
+    },
+    "question": {
+      "es": "¿Ofreces mentoring o coaching técnico?",
+      "en": "Do you offer mentoring or technical coaching?",
+      "pt": "Você oferece mentoria ou coaching técnico?"
+    },
+    "subtitle": {
+      "es": "Acompañamiento personalizado para equipos y desarrolladores",
+      "en": "Personalized support for teams and developers",
+      "pt": "Acompanhamento personalizado para equipes e desenvolvedores"
+    },
+    "answer": {
+      "intro": {
+        "es": "¡Sí! Ofrezco programas de mentoring enfocados en:",
+        "en": "Yes! I offer mentoring programs focused on:",
+        "pt": "Sim! Ofereço programas de mentoria focados em:"
+      },
+      "items": [
+        {
+          "title": {
+            "es": "Arquitectura de Software:",
+            "en": "Software Architecture:",
+            "pt": "Arquitetura de Software:"
+          },
+          "description": {
+            "es": "Microservicios, DDD, arquitecturas limpias, patrones y mejores prácticas.",
+            "en": "Microservices, DDD, clean architectures, patterns and best practices.",
+            "pt": "Microsserviços, DDD, arquiteturas limpas, padrões e melhores práticas."
+          }
+        },
+        {
+          "title": {
+            "es": "Inteligencia Artificial:",
+            "en": "Artificial Intelligence:",
+            "pt": "Inteligência Artificial:"
+          },
+          "description": {
+            "es": "Integración de IA en productos, machine learning, agentes inteligentes y automatización.",
+            "en": "AI integration in products, machine learning, intelligent agents and automation.",
+            "pt": "Integração de IA em produtos, machine learning, agentes inteligentes e automação."
+          }
+        },
+        {
+          "title": {
+            "es": "Liderazgo técnico:",
+            "en": "Technical leadership:",
+            "pt": "Liderança técnica:"
+          },
+          "description": {
+            "es": "Gestión de equipos, code reviews, cultura de calidad y desarrollo profesional.",
+            "en": "Team management, code reviews, quality culture and professional development.",
+            "pt": "Gestão de equipes, revisões de código, cultura de qualidade e desenvolvimento profissional."
+          }
+        },
+        {
+          "title": {
+            "es": "Stack técnico moderno:",
+            "en": "Modern tech stack:",
+            "pt": "Stack técnico moderno:"
+          },
+          "description": {
+            "es": "React, Node.js, Python, TypeScript, cloud (AWS, Azure) y DevOps.",
+            "en": "React, Node.js, Python, TypeScript, cloud (AWS, Azure) and DevOps.",
+            "pt": "React, Node.js, Python, TypeScript, cloud (AWS, Azure) e DevOps."
+          }
+        }
+      ],
+      "note": {
+        "es": "Sesiones individuales o en equipo, remotas, con seguimiento continuo.",
+        "en": "Individual or team sessions, remote, with continuous follow-up.",
+        "pt": "Sessões individuais ou em equipe, remotas, com acompanhamento contínuo."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "icon": "business",
+    "gradient": "from-blue-600 to-indigo-600",
+    "videoUrl": "https://youtube.com/shorts/4d_K-DYSi5M",
+    "videoTitle": {
+      "es": "Apoyo Empresarial",
+      "en": "Enterprise Support",
+      "pt": "Apoio Empresarial"
+    },
+    "question": {
+      "es": "¿Qué incluye el apoyo empresarial en arquitectura?",
+      "en": "What does enterprise architecture support include?",
+      "pt": "O que inclui o suporte empresarial em arquitetura?"
+    },
+    "subtitle": {
+      "es": "Consultoría estratégica y transformación digital",
+      "en": "Strategic consulting and digital transformation",
+      "pt": "Consultoria estratégica e transformação digital"
+    },
+    "answer": {
+      "intro": {
+        "es": "Ofrezco servicios especializados para empresas que buscan evolucionar su arquitectura tecnológica:",
+        "en": "I offer specialized services for companies looking to evolve their technology architecture:",
+        "pt": "Ofereço serviços especializados para empresas que buscam evoluir sua arquitetura tecnológica:"
+      },
+      "services": [
+        {
+          "icon": "analytics",
+          "title": {
+            "es": "Evaluación técnica",
+            "en": "Technical assessment",
+            "pt": "Avaliação técnica"
+          },
+          "description": {
+            "es": "Auditoría de arquitectura actual, identificación de deudas técnicas y puntos críticos.",
+            "en": "Current architecture audit, identification of technical debts and critical points.",
+            "pt": "Auditoria de arquitetura atual, identificação de dívidas técnicas e pontos críticos."
+          }
+        },
+        {
+          "icon": "route",
+          "title": {
+            "es": "Roadmap tecnológico",
+            "en": "Technology roadmap",
+            "pt": "Roadmap tecnológico"
+          },
+          "description": {
+            "es": "Diseño de hoja de ruta para migración a arquitecturas modernas (microservicios, cloud-native).",
+            "en": "Roadmap design for migration to modern architectures (microservices, cloud-native).",
+            "pt": "Design de roteiro para migração para arquiteturas modernas (microsserviços, cloud-native)."
+          }
+        },
+        {
+          "icon": "flag",
+          "title": {
+            "es": "Frameworks TOGAF",
+            "en": "TOGAF Frameworks",
+            "pt": "Frameworks TOGAF"
+          },
+          "description": {
+            "es": "Implementación de marcos de arquitectura empresarial estándar de la industria.",
+            "en": "Implementation of industry-standard enterprise architecture frameworks.",
+            "pt": "Implementação de frameworks de arquitetura empresarial padrão da indústria."
+          }
+        },
+        {
+          "icon": "support_agent",
+          "title": {
+            "es": "Acompañamiento continuo",
+            "en": "Continuous support",
+            "pt": "Acompanhamento contínuo"
+          },
+          "description": {
+            "es": "Asesoría técnica durante la implementación, code reviews y capacitación del equipo.",
+            "en": "Technical consulting during implementation, code reviews and team training.",
+            "pt": "Assessoria técnica durante a implementação, revisões de código e treinamento da equipe."
+          }
+        }
+      ],
+      "cta": {
+        "text": {
+          "es": "Ver más sobre arquitectura empresarial",
+          "en": "Learn more about enterprise architecture",
+          "pt": "Saiba mais sobre arquitetura empresarial"
+        },
+        "link": "/arquitectura"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "icon": "work",
+    "gradient": "from-orange-600 to-red-600",
+    "videoUrl": "https://youtube.com/shorts/4d_K-DYSi5M",
+    "videoTitle": {
+      "es": "Modalidades de Colaboración",
+      "en": "Collaboration Modes",
+      "pt": "Modalidades de Colaboração"
+    },
+    "question": {
+      "es": "¿Cuáles son las modalidades de colaboración?",
+      "en": "What are the collaboration modes?",
+      "pt": "Quais são as modalidades de colaboração?"
+    },
+    "subtitle": {
+      "es": "Opciones flexibles según tus necesidades",
+      "en": "Flexible options according to your needs",
+      "pt": "Opções flexíveis de acordo com suas necessidades"
+    },
+    "answer": {
+      "intro": {
+        "es": "Trabajo bajo diferentes esquemas de colaboración:",
+        "en": "I work under different collaboration schemes:",
+        "pt": "Trabalho sob diferentes esquemas de colaboração:"
+      },
+      "modes": [
+        {
+          "icon": "schedule",
+          "title": {
+            "es": "Proyecto completo (llave en mano)",
+            "en": "Complete project (turnkey)",
+            "pt": "Projeto completo (chave na mão)"
+          },
+          "description": {
+            "es": "Me encargo del desarrollo end-to-end, desde el diseño hasta el despliegue.",
+            "en": "I handle end-to-end development, from design to deployment.",
+            "pt": "Cuido do desenvolvimento ponta a ponta, desde o design até a implantação."
+          }
+        },
+        {
+          "icon": "update",
+          "title": {
+            "es": "Colaboración continua",
+            "en": "Continuous collaboration",
+            "pt": "Colaboração contínua"
+          },
+          "description": {
+            "es": "Integración con tu equipo en sprints ágiles (SCRUM/Kanban).",
+            "en": "Integration with your team in agile sprints (SCRUM/Kanban).",
+            "pt": "Integração com sua equipe em sprints ágeis (SCRUM/Kanban)."
+          }
+        },
+        {
+          "icon": "handshake",
+          "title": {
+            "es": "Consultoría puntual",
+            "en": "Point consultation",
+            "pt": "Consultoria pontual"
+          },
+          "description": {
+            "es": "Sesiones de asesoría específicas para resolver desafíos técnicos concretos.",
+            "en": "Specific advisory sessions to solve concrete technical challenges.",
+            "pt": "Sessões de consultoria específicas para resolver desafios técnicos concretos."
+          }
+        },
+        {
+          "icon": "groups",
+          "title": {
+            "es": "Staff augmentation",
+            "en": "Staff augmentation",
+            "pt": "Aumento de equipe"
+          },
+          "description": {
+            "es": "Me integro temporalmente como parte de tu equipo de desarrollo.",
+            "en": "I temporarily integrate as part of your development team.",
+            "pt": "Integro-me temporariamente como parte de sua equipe de desenvolvimento."
+          }
+        }
+      ],
+      "note": {
+        "es": "✨ Todas las modalidades incluyen comunicación fluida, reportes de progreso y garantía de calidad.",
+        "en": "✨ All modes include smooth communication, progress reports and quality assurance.",
+        "pt": "✨ Todas as modalidades incluem comunicação fluida, relatórios de progresso e garantia de qualidade."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "icon": "schedule",
+    "gradient": "from-purple-600 to-pink-600",
+    "videoUrl": "https://youtube.com/shorts/4d_K-DYSi5M",
+    "videoTitle": {
+      "es": "Tiempos y Disponibilidad",
+      "en": "Time and Availability",
+      "pt": "Tempos e Disponibilidade"
+    },
+    "question": {
+      "es": "¿Cuál es el tiempo de respuesta y disponibilidad?",
+      "en": "What is the response time and availability?",
+      "pt": "Qual é o tempo de resposta e disponibilidade?"
+    },
+    "subtitle": {
+      "es": "Tiempos de inicio y comunicación",
+      "en": "Start times and communication",
+      "pt": "Tempos de início e comunicação"
+    },
+    "answer": {
+      "items": [
+        {
+          "icon": "schedule",
+          "iconColor": "text-green-500",
+          "title": {
+            "es": "Respuesta inicial:",
+            "en": "Initial response:",
+            "pt": "Resposta inicial:"
+          },
+          "description": {
+            "es": "24-48 horas hábiles para todas las solicitudes de contacto.",
+            "en": "24-48 business hours for all contact requests.",
+            "pt": "24-48 horas úteis para todas as solicitações de contato."
+          }
+        },
+        {
+          "icon": "rocket_launch",
+          "iconColor": "text-blue-500",
+          "title": {
+            "es": "Inicio de proyecto:",
+            "en": "Project start:",
+            "pt": "Início do projeto:"
+          },
+          "description": {
+            "es": "Generalmente 1-2 semanas después de la aprobación de la propuesta.",
+            "en": "Usually 1-2 weeks after proposal approval.",
+            "pt": "Geralmente 1-2 semanas após a aprovação da proposta."
+          }
+        },
+        {
+          "icon": "public",
+          "iconColor": "text-orange-500",
+          "title": {
+            "es": "Zona horaria:",
+            "en": "Time zone:",
+            "pt": "Fuso horário:"
+          },
+          "description": {
+            "es": "Trabajo remoto con disponibilidad en horarios compatibles con América, Europa y Asia.",
+            "en": "Remote work with availability in time zones compatible with America, Europe and Asia.",
+            "pt": "Trabalho remoto com disponibilidade em horários compatíveis com América, Europa e Ásia."
+          }
+        }
+      ]
+    }
+  }
+]

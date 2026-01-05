@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "image": "./websites/01.png",
+    "alt": "Project 1",
+    "title": "Innobiza web APP",
+    "description": {
+      "es": "Aplicación de comercio minorista de otros artículos en establecimientos especializados",
+      "en": "Retail application for specialized goods",
+      "pt": "Aplicação de varejo para artigos especializados"
+    },
+    "category": "E-commerce",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "image": "./websites/02.JPG",
+    "alt": "Project 2",
+    "title": "WEB APP ACADEMICA PARA PROGRMACIÓN E IA",
+    "description": {
+      "es": "Aplicación académica enfocada en programación y tecnología con inteligencia artificial",
+      "en": "Academic application focused on programming and technology with artificial intelligence",
+      "pt": "Aplicação acadêmica focada em programação e tecnologia com inteligência artificial"
+    },
+    "category": "Education",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "image": "./websites/03.png",
+    "alt": "Project 3",
+    "title": {
+      "es": "WebAPP Clinica centro médico la quinta",
+      "en": "Analytics Dashboard",
+      "pt": "Dashboard de Análise"
+    },
+    "description": {
+      "es": "Web + Aplicación de marketing para empresa prestadora de servicios de salud",
+      "en": "Marketing application for a healthcare services company",
+      "pt": "Aplicação de marketing para empresa prestadora de serviços de saúde"
+    },
+    "category": "Healthcare",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "image": "./websites/04.JPG",
+    "alt": "Project 4",
+    "title": "Web-QR-APP + Laser +  E-commerce Darkhusky",
+    "description": {
+      "es": "Aplicación web E-commerce + QR Laser productos personalizados para mascotas",
+      "en": "Web E-commerce + QR Laser customized pet products",
+      "pt": "Aplicação web E-commerce + QR Laser produtos personalizados para animais de estimação"
+    },
+    "category": "E-commerce",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "image": "./websites/05.JPG",
+    "alt": "Project 5",
+    "title": "WebApp darwinyusef.com IA contents + Chatbot",
+    "description": {
+      "es": "Portafolio: Ing Darwin Yusef + IA Chatbot",
+      "en": "Portfolio: Eng. Darwin Yusef + IA Chatbot",
+      "pt": "Portafolio: Ing Darwin Yusef + IA Chatbot"
+    },
+    "category": "Portfolio",
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "image": "./websites/06.JPG",
+    "alt": "Profile",
+    "title": {
+      "es": "WEBAPP Mobile Exploración de talentos + IA contents",
+      "en": "WEBAPP Mobile Talent exploration + IA contents",
+      "pt": "WEBAPP Mobile Exploração de talentos + conteúdo IA"
+    },
+    "description": {
+      "es": "WEB APP Mobile Psicologica para niños de exploración de talentos con IA",
+      "en": "Web App Mobile Psychological Talent Exploration Tool for Children with AI",
+      "pt": "Aplicativo web e aplicativo móvel para exploração de talentos psicológicos em crianças com IA"
+    },
+    "category": "Education",
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "image": "./websites/07.png",
+    "alt": "Profile",
+    "title": "FIXING MORAFIX REPAIR",
+    "description": {
+      "es": "WEBAPP Mobile Repación de equipos y servicios técnicos",
+      "en": "WEBAPP Mobile Equipment Repair and Technical Services",
+      "pt": "Aplicativo Web Mobile; Reparo de equipamentos e serviços técnicos"
+    },
+    "category": "Services",
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "image": "./websites/08.JPG",
+    "alt": "Profile",
+    "title": {
+      "es": "Doctora María Perez - WEBAPP Psicología",
+      "en": "Dr. Maria Perez - WEBAPP Psychology",
+      "pt": "Dra. Maria Perez - Psicologia WEBAPP"
+    },
+    "description": {
+      "es": "Portfolio personal de psicología con chatbot + IA",
+      "en": "Personal psychology portfolio with chatbot + AI",
+      "pt": "Portfólio de psicologia pessoal com chatbot + IA"
+    },
+    "category": "Portfolio",
+    "is_active": true
+  }
+]
