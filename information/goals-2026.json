@@ -55,12 +55,13 @@
         "E6": 0
       },
       "subtasks": [
-        "Darle un buen nombre y abrirlo en spotify - apple poadcast",
-        "Implementar newsletter semanal",
-        "agregar algunas canciones basicas de fondo para ambientar",
-        "crear el sistema de automatización para publicar en redes sociales",
-        "Organizar sesiones semanales para integrar el poadcast",
-        "Crear grupo de Discord"
+        "Darle un buen nombre y abrirlo en spotify - apple poadcast - youtube poadcast",
+        "Implementar blog con información adicoinal al poadcast",
+        "agregar algunas canciones basicas de fondo para ambientar - creación de cortinillas etc",
+        "crear el sistema de automatización para publicar en redes sociales - y montar un newsletter mensual",
+        "Organizar sesiones semanales para integrar el poadcast - un poadcast en todas las redes cada mes",
+        "Crear grupo de Discord",
+        "mi imagen y marca personal va a comenzar a desarrollarse a partir de estos laboratorios"
       ],
       "notes": "Prioridad alta - Base para visibilidad"
     },
@@ -71,19 +72,19 @@
       "weight": 15,
       "progress": 0,
       "correlation": {
-        "E1": 2,
+        "E1": 5,
         "E2": 2,
-        "E3": 3,
+        "E3": 5,
         "E4": 3,
         "E5": 2,
         "E6": 3
       },
       "subtasks": [
-        "Crear 3 labs de IA en GitHub",
-        "Documentar arquitecturas de referencia",
-        "Grabar tutoriales en video",
-        "Publicar casos de uso reales", 
-        "mi imagen y marca personal va a comenzar a desarrollarse a partir de estos laboratorios"
+        "Crear 3 labs de IA en GitHub + los cursos de IA en 2026",
+        "Documentar arquitecturas de referencia + y crear un sistema de arquitecturas para todo el mundo a nivel de prompting e ia con app mobile",
+        "Grabar tutoriales en video + todo enfocado a cursos online",
+        "Publicar casos de uso reales + invitar a varias personas para generar estos cursos reales", 
+        "desarrollar un sistema en pantreon para integrar esto online"
       ],
       "notes": "Alto impacto técnico y de visibilidad"
     },
@@ -103,9 +104,11 @@
       },
       "subtasks": [
         "Publicar contenido diario en LinkedIn",
-        "Crear shorts técnicos para YouTube",
-        "Participar en podcasts externos",
-        "Escribir artículos invitados"
+        "Intentar recuperar la cuenta de facebook",
+        "Crear shorts técnicos para YouTube - esto para captar personas",
+        "Participar en podcasts externos - de ser posible aportando conocimiento",
+        "Escribir artículos invitados - y postear en otros web's como linkedin",
+        "Establecer conexiones para participar de eventos en todo medellin"
       ],
       "notes": "Requiere constancia y estrategia de contenido"
     },
