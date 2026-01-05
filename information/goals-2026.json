@@ -1,0 +1,295 @@
+{
+  "strategyPeriod": "2026-2027",
+  "lastUpdated": "2025-12-14",
+  "axes": [
+    {
+      "id": "E1",
+      "name": "Community & Personal Brand",
+      "description": "Construcción de comunidad y marca personal",
+      "color": "rgba(147, 51, 234, 0.7)"
+    },
+    {
+      "id": "E2",
+      "name": "Social Visibility",
+      "description": "Visibilidad en redes sociales y alcance",
+      "color": "rgba(34, 197, 94, 0.7)"
+    },
+    {
+      "id": "E3",
+      "name": "Technical Mastery & Architecture",
+      "description": "Dominio técnico y arquitectura de software",
+      "color": "rgba(37, 99, 235, 0.7)"
+    },
+    {
+      "id": "E4",
+      "name": "AI & Agentic Systems",
+      "description": "Sistemas de IA y agentes inteligentes",
+      "color": "rgba(239, 68, 68, 0.7)"
+    },
+    {
+      "id": "E5",
+      "name": "Income & Career Growth",
+      "description": "Crecimiento de ingresos y carrera profesional",
+      "color": "rgba(132, 204, 22, 0.7)"
+    },
+    {
+      "id": "E6",
+      "name": "Infrastructure & Products",
+      "description": "Infraestructura técnica y productos",
+      "color": "rgba(99, 102, 241, 0.7)"
+    }
+  ],
+  "goals": [
+    {
+      "id": "G1",
+      "title": "Generar comunidad de podcast y blog",
+      "description": "Generar para el podcast y el sistema de blog actual una comunidad activa",
+      "weight": 12,
+      "progress": 0,
+      "correlation": {
+        "E1": 3,
+        "E2": 3,
+        "E3": 1,
+        "E4": 1,
+        "E5": 1,
+        "E6": 0
+      },
+      "subtasks": [
+        "Darle un buen nombre y abrirlo en spotify - apple poadcast",
+        "Implementar newsletter semanal",
+        "agregar algunas canciones basicas de fondo para ambientar",
+        "crear el sistema de automatización para publicar en redes sociales",
+        "Organizar sesiones semanales para integrar el poadcast",
+        "Crear grupo de Discord"
+      ],
+      "notes": "Prioridad alta - Base para visibilidad"
+    },
+    {
+      "id": "G2",
+      "title": "Laboratorios de IA y Arquitectura",
+      "description": "Generar múltiples laboratorios de IA y de arquitectura de software con servicios integrados en línea e iniciar con los contenidos en varias redes sociales",
+      "weight": 15,
+      "progress": 0,
+      "correlation": {
+        "E1": 2,
+        "E2": 2,
+        "E3": 3,
+        "E4": 3,
+        "E5": 2,
+        "E6": 3
+      },
+      "subtasks": [
+        "Crear 3 labs de IA en GitHub",
+        "Documentar arquitecturas de referencia",
+        "Grabar tutoriales en video",
+        "Publicar casos de uso reales", 
+        "mi imagen y marca personal va a comenzar a desarrollarse a partir de estos laboratorios"
+      ],
+      "notes": "Alto impacto técnico y de visibilidad"
+    },
+    {
+      "id": "G3",
+      "title": "Visibilidad en Redes Sociales",
+      "description": "Ser más visible en redes sociales como Arquitecto líder de software a través de la comunidad",
+      "weight": 10,
+      "progress": 0,
+      "correlation": {
+        "E1": 3,
+        "E2": 3,
+        "E3": 2,
+        "E4": 1,
+        "E5": 2,
+        "E6": 0
+      },
+      "subtasks": [
+        "Publicar contenido diario en LinkedIn",
+        "Crear shorts técnicos para YouTube",
+        "Participar en podcasts externos",
+        "Escribir artículos invitados"
+      ],
+      "notes": "Requiere constancia y estrategia de contenido"
+    },
+    {
+      "id": "G4",
+      "title": "Contenido de Arquitecturas y Patrones",
+      "description": "Desarrollar en cada lenguaje de programación las distintas formas de arquitecturas y los patrones de diseño posibles creando contenido online (realtime - concurrency - architect - docker - integrations - n8n - k8s - Orquestación gran escala)",
+      "weight": 14,
+      "progress": 0,
+      "correlation": {
+        "E1": 2,
+        "E2": 2,
+        "E3": 3,
+        "E4": 2,
+        "E5": 1,
+        "E6": 2
+      },
+      "subtasks": [
+        "Serie: Arquitectura por lenguaje (Python, Go, TypeScript, Rust)",
+        "Patrones de concurrencia y realtime",
+        "Guías de k8s y orquestación",
+        "Integraciones con n8n y automation"
+      ],
+      "notes": "Contenido evergreen de alto valor"
+    },
+    {
+      "id": "G5",
+      "title": "Sistema de Entrenamiento Agéntico con IA",
+      "description": "Crear mi propio sistema de Entrenamiento Agéntico con IA para desarrolladores",
+      "weight": 13,
+      "progress": 0,
+      "correlation": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 2,
+        "E4": 3,
+        "E5": 2,
+        "E6": 3
+      },
+      "subtasks": [
+        "Diseñar arquitectura del sistema agéntico",
+        "Implementar MVP con LLMs",
+        "Crear curriculum de entrenamiento",
+        "Beta testing con comunidad"
+      ],
+      "notes": "Proyecto bandera - diferenciador clave"
+    },
+    {
+      "id": "G6",
+      "title": "Oficina de Arquitectura de Software",
+      "description": "Crear la oficina de arquitectura de software - y así Poder integrar a cabalidad multitud de herramientas de IA a mis proyectos",
+      "weight": 11,
+      "progress": 0,
+      "correlation": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 3,
+        "E4": 3,
+        "E5": 3,
+        "E6": 3
+      },
+      "subtasks": [
+        "Definir framework de trabajo",
+        "Crear templates y blueprints",
+        "Integrar herramientas de IA",
+        "Documentar procesos"
+      ],
+      "notes": "Base para servicios profesionales"
+    },
+    {
+      "id": "G7",
+      "title": "Certificaciones AWS, K8s y Maestría",
+      "description": "Iniciar con la certificación de AWS - K8S e iniciar con la maestría en 2028",
+      "weight": 8,
+      "progress": 0,
+      "correlation": {
+        "E1": 0,
+        "E2": 1,
+        "E3": 3,
+        "E4": 1,
+        "E5": 2,
+        "E6": 2
+      },
+      "subtasks": [
+        "AWS Solutions Architect Associate",
+        "CKA (Certified Kubernetes Administrator)",
+        "Investigar programas de maestría",
+        "Plan de estudio estructurado"
+      ],
+      "notes": "Inversión a largo plazo en credenciales"
+    },
+    {
+      "id": "G8",
+      "title": "Aumentar Ingresos y Nueva Empresa",
+      "description": "Aumentar mis ingresos actuales enrolándome en una excelente empresa (2026: creé mi portfolio estoy enviando cv a varias empresas)",
+      "weight": 12,
+      "progress": 0,
+      "correlation": {
+        "E1": 1,
+        "E2": 2,
+        "E3": 2,
+        "E4": 1,
+        "E5": 3,
+        "E6": 1
+      },
+      "subtasks": [
+        "Optimizar portfolio y LinkedIn",
+        "Aplicar a 20+ empresas tech",
+        "Preparar entrevistas técnicas",
+        "Negociar ofertas"
+      ],
+      "notes": "Meta prioritaria 2026 - En progreso activo"
+    },
+    {
+      "id": "G9",
+      "title": "Migración Frontend a Mobile",
+      "description": "Mi frontend se migrará al mobile - Desarrollar varias aplicaciones en entornos móviles",
+      "weight": 9,
+      "progress": 0,
+      "correlation": {
+        "E1": 0,
+        "E2": 1,
+        "E3": 2,
+        "E4": 1,
+        "E5": 1,
+        "E6": 3
+      },
+      "subtasks": [
+        "Aprender React Native / Flutter",
+        "Migrar portfolio a mobile",
+        "Crear 2 apps nativas",
+        "Publicar en stores"
+      ],
+      "notes": "Expansión de habilidades técnicas"
+    },
+    {
+      "id": "G10",
+      "title": "Poner en Marcha 8 Proyectos",
+      "description": "Poner en marcha los 8 de los proyectos y actualizar los necesarios",
+      "weight": 6,
+      "progress": 1.25,
+      "correlation": {
+        "E1": 1,
+        "E2": 1,
+        "E3": 2,
+        "E4": 2,
+        "E5": 2,
+        "E6": 3
+      },
+      "subtasks": [
+        "Portafolio actual",
+        "Aquicramos corporativa stack de tecnología",
+        "Aquicreamos.Explora - Aplicación de talentos exploración",
+        "Aquicreamos.Aprende Aplicación Academica",
+        "Aquicreamos.Nomina Aplicación de gestión de nomina leads y proyectos",
+        "Cristianismo digital Aplicación de Cristianismo Digital",
+        "Aplicación DarkHusky - Mascotas",
+        "Aplicación de ingles Academica", 
+        ""
+      ],
+      "notes": "Cleanup y consolidación de portfolio"
+    }
+  ],
+  "weightingExplanation": {
+    "G1": "12% - Comunidad es fundamental para amplificar todo el resto",
+    "G2": "15% - Máximo peso: combina técnica, IA, visibilidad y productos",
+    "G3": "10% - Visibilidad constante pero dependiente de contenido",
+    "G4": "14% - Contenido técnico de alto valor y evergreen",
+    "G5": "13% - Proyecto diferenciador con alto impacto en IA",
+    "G6": "11% - Base para servicios profesionales y consultoría",
+    "G7": "8% - Inversión a largo plazo, menos urgente",
+    "G8": "12% - Prioridad financiera inmediata",
+    "G9": "9% - Expansión técnica importante pero no crítica",
+    "G10": "6% - Menor peso: cleanup y consolidación"
+  },
+  "progressFormula": {
+    "description": "Progreso Ponderado Total = Σ (peso_i × progreso_i) / 100",
+    "example": "Si G1 tiene peso 12% y progreso 15%, aporta 1.8 puntos al total"
+  },
+  "recommendations": [
+    "Revisar progreso trimestralmente (Marzo, Junio, Septiembre, Diciembre)",
+    "Usar Notion Database con vistas por eje estratégico",
+    "Dashboard visual con gráficas de radar por eje",
+    "Sincronizar con OKRs trimestrales",
+    "Priorizar metas con correlación alta en E1 y E5 para Q1 2026"
+  ]
+}
