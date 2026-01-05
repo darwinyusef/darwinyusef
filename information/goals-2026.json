@@ -80,11 +80,11 @@
         "E6": 3
       },
       "subtasks": [
-        "Crear 3 labs de IA en GitHub + los cursos de IA en 2026",
+        "Crear varios labs de IA con docker ML/DLOPS + los cursos de IA en 2026",
         "Documentar arquitecturas de referencia + y crear un sistema de arquitecturas para todo el mundo a nivel de prompting e ia con app mobile",
         "Grabar tutoriales en video + todo enfocado a cursos online",
         "Publicar casos de uso reales + invitar a varias personas para generar estos cursos reales", 
-        "desarrollar un sistema en pantreon para integrar esto online"
+        ""
       ],
       "notes": "Alto impacto técnico y de visibilidad"
     },
@@ -108,7 +108,8 @@
         "Crear shorts técnicos para YouTube - esto para captar personas",
         "Participar en podcasts externos - de ser posible aportando conocimiento",
         "Escribir artículos invitados - y postear en otros web's como linkedin",
-        "Establecer conexiones para participar de eventos en todo medellin"
+        "Establecer conexiones para participar de eventos en todo lo posible en medellín",
+        "desarrollar un sistema en pantreon para integrar esto online"
       ],
       "notes": "Requiere constancia y estrategia de contenido"
     },
@@ -263,12 +264,13 @@
       "subtasks": [
         "Portafolio actual",
         "Aquicramos corporativa stack de tecnología",
-        "Aquicreamos.Explora - Aplicación de talentos exploración",
+        "ExploracionTalentos - Aplicación de talentos exploración",
         "Aquicreamos.Aprende Aplicación Academica",
         "Aquicreamos.Nomina Aplicación de gestión de nomina leads y proyectos",
         "Cristianismo digital Aplicación de Cristianismo Digital",
         "Aplicación DarkHusky - Mascotas",
         "Aplicación de ingles Academica", 
+        "varios proyectos mini con IA"
         ""
       ],
       "notes": "Cleanup y consolidación de portfolio"
