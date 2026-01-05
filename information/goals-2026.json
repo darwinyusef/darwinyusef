@@ -130,7 +130,9 @@
         "Serie: Arquitectura por lenguaje (Python, Go, TypeScript, Rust)",
         "Patrones de concurrencia y realtime",
         "Guías de k8s y orquestación",
-        "Integraciones con n8n y automation"
+        "Integración de ML y DL con mlflow, airflow y re",
+        "Integraciones con n8n y automation",
+        "Crear un taller completo de arquitecturas modernas y patrones de diseño modernos"
       ],
       "notes": "Contenido evergreen de alto valor"
     },
