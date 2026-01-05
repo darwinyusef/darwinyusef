@@ -133,7 +133,8 @@
         "Guías de k8s y orquestación",
         "Integración de ML y DL con mlflow, airflow y re",
         "Integraciones con n8n y automation",
-        "Crear un taller completo de arquitecturas modernas y patrones de diseño modernos"
+        "Crear un taller completo de arquitecturas modernas y patrones de diseño modernos",
+        "Crear una arquitectura even souce real (KAFKA) MLOPS con data modeling y data analitics con spark y ML/DL"
       ],
       "notes": "Contenido evergreen de alto valor"
     },
