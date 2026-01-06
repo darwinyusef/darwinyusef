@@ -1,29 +1,30 @@
 [
+ 
   {
     "id": 0,
     "city": "ANTIOQUIA",
-    "date": "Diciembre 14, 2025",
+    "date": "14 de Octubre, 2025",
     "country": "COLOMBIA",
-    "title": "Tech Summit 2024: Arquitectura Empresarial y Transformación Digital",
-    "venue": "Palacio de Congresos de Madrid",
+    "title": "Tech Business: Arquitectura Empresarial y Transformación Digital",
+    "venue": "Podcast ONLINE",
     "ticketUrl": "https://example.com/tickets",
-    "region": "europa",
+    "region": "América del Sur",
     "featured": true,
     "is_active": true,
-    "description": "Únete al evento tecnológico más importante del año donde exploraremos las últimas tendencias en arquitectura empresarial, frameworks como TOGAF, migración a microservicios cloud-native, estrategias de transformación digital, y casos de éxito de empresas Fortune 499. Con speakers internacionales, workshops prácticos, networking con CTOs y arquitectos de soluciones de las principales empresas tecnológicas de Europa y América Latina."
+    "description": "Evento especializado en arquitectura empresarial y transformación digital, orientado a líderes técnicos, arquitectos de software y tomadores de decisión. Se abordarán temas como arquitectura empresarial moderna, adopción de frameworks como TOGAF, evolución hacia microservicios cloud-native y estrategias prácticas de transformación digital. La sesión incluye análisis de casos reales y una visión aplicada para alinear negocio, tecnología e innovación en entornos empresariales actuales."
   },
   {
     "id": 1,
     "city": "ANTIOQUIA",
-    "date": "Diciembre 19, 2025",
+    "date": "27 de Septiembre, 2025",
     "country": "COLOMBIA",
-    "title": "AI & ML en Producción: De la Experimentación al Despliegue Escalable",
-    "venue": "Buenos Aires Tech Park",
-    "ticketUrl": "https://example.com/tickets",
-    "region": "latinoamerica",
+    "title": "TECH SPHERE: Agentes cognitivos que de/construyen la educación.",
+    "venue": "UNIVERSIDAD DE ANTIOQUIA",
+    "ticketUrl": "https://www.youtube.com/watch?v=KK1Iu_fdbLM",
+    "region": "Latinoamérica",
     "featured": true,
     "is_active": true,
-    "description": "Conferencia intensiva de 2 días enfocada en llevar modelos de IA generativa a producción. Aprende técnicas avanzadas de fine-tuning con Hugging Face, implementación de RAG (Retrieval Augmented Generation), optimización de modelos con quantización, deployment en AWS/Azure/GCP, monitoreo en tiempo real, estrategias de reducción de costos, evaluación de LLMs, prompt engineering empresarial, y gobernanza de IA. Incluye laboratorios hands-on y certificado de participación."
+    "description": "Conferencia técnica intensiva enfocada en el ciclo completo de puesta en producción de soluciones de Inteligencia Artificial y Machine Learning para la educación. Se cubrirán prácticas modernas como fine-tuning de modelos con Hugging Face, arquitecturas RAG (Retrieval Augmented Generation), optimización mediante cuantización, despliegue escalable en entornos cloud como AWS, Azure y GCP, monitoreo y evaluación de modelos, control de costos y gobernanza de IA. Incluye sesiones prácticas orientadas a ingenieros y arquitectos que buscan llevar sistemas de IA del prototipo a producción real."
   },
   {
     "id": 2,
