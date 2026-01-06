@@ -7,16 +7,16 @@
       "pt": "Workshop"
     },
     "title": {
-      "es": "Full Stack con React",
-      "en": "Full Stack with React",
-      "pt": "Full Stack com React"
+      "es": "Introducción a la nueva programación con IA",
+      "en": "Introduction to the new programming with AI",
+      "pt": "Introdução à nova programação com IA"
     },
     "date": {
-      "day": "15",
+      "day": "08",
       "month": {
-        "es": "Dic",
-        "en": "Dec",
-        "pt": "Dez"
+        "es": "ENE",
+        "en": "JAN",
+        "pt": "ENE"
       }
     },
     "time": "18:00 - 20:00",
@@ -41,24 +41,28 @@
       "pt": "Palestra"
     },
     "title": {
-      "es": "Arquitectura Escalable",
-      "en": "Scalable Architecture",
-      "pt": "Arquitetura Escalável"
+      "es": "Que se requiere en un nuevo rol de programador en 2026",
+      "en": "What is required to be a good programmer in 2026",
+      "pt": "Apply for a new programmer role in 2026"
     },
     "date": {
-      "day": "22",
+      "day": "09",
       "month": {
-        "es": "Dic",
-        "en": "Dec",
-        "pt": "Dez"
+        "es": "ENE",
+        "en": "JAN",
+        "pt": "ENE"
       }
     },
     "time": "19:00 - 21:00",
-    "location": "Zoom Webinar",
-    "buttonText": {
-      "es": "Reservar Lugar",
-      "en": "Book Seat",
-      "pt": "Reservar Lugar"
+    "location": {
+      "es": "Online",
+      "en": "Online",
+      "pt": "Online"
+    },
+     "buttonText": {
+      "es": "Registrarse",
+      "en": "Register",
+      "pt": "Registrar"
     },
     "buttonColor": "bg-red-400",
     "gradient": "from-pink-600 to-purple-600"
@@ -66,29 +70,29 @@
   {
     "id": 3,
     "type": {
-      "es": "Meetup",
-      "en": "Meetup",
-      "pt": "Meetup"
+      "es": "Taller",
+      "en": "Workshop",
+      "pt": "Workshop"
     },
     "title": {
-      "es": "Networking Developers",
-      "en": "Developers Networking",
-      "pt": "Networking Developers"
+      "es": "Aprendizajes obligatorios para ser desarrollador de software en 2026",
+      "en": "Aprendizados obrigatórios para ser desenvolvedor de software em 2026",
+      "pt": "Mandatory learning to be a software developer in 2026"
     },
     "date": {
-      "day": "28",
+      "day": "10",
       "month": {
-        "es": "Dic",
-        "en": "Dec",
-        "pt": "Dez"
+        "es": "ENE",
+        "en": "JAN",
+        "pt": "ENE"
       }
     },
     "time": "17:00 - 19:00",
     "location": "Discord Community",
-    "buttonText": {
-      "es": "Unirme",
-      "en": "Join Now",
-      "pt": "Participar"
+     "buttonText": {
+      "es": "Registrarse",
+      "en": "Register",
+      "pt": "Registrar"
     },
     "buttonColor": "bg-red-400",
     "gradient": "from-purple-600 to-primary"
