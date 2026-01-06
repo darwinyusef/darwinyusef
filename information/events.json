@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "city": "Madrid",
+    "city": "ANTIOQUIA - COLOMBIA",
     "date": "Diciembre 14, 2025",
     "country": "España",
     "title": "Tech Summit 2024: Arquitectura Empresarial y Transformación Digital",
@@ -14,7 +14,7 @@
   },
   {
     "id": 1,
-    "city": "Buenos Aires",
+    "city": "ANTIOQUIA - COLOMBIA",
     "date": "Diciembre 19, 2025",
     "country": "Argentina",
     "title": "AI & ML en Producción: De la Experimentación al Despliegue Escalable",
@@ -27,20 +27,20 @@
   },
   {
     "id": 2,
-    "city": "Bogotá",
+    "city": "ANTIOQUIA - COLOMBIA",
     "date": "Enero 14, 2026",
     "country": "Colombia",
     "title": "Workshop: Full Stack Development con React & Node.js",
     "venue": "Centro de Innovación Digital",
     "ticketUrl": "https://example.com/tickets",
     "region": "latinoamerica",
-    "featured": false,
-    "is_active": true,
+    "featured": true,
+    "is_active": false,
     "description": "Aprende a desarrollar aplicaciones full stack modernas utilizando React en el frontend y Node.js en el backend."
   },
   {
     "id": 3,
-    "city": "Madrid",
+    "city": "ANTIOQUIA - COLOMBIA",
     "date": "Febrero 9, 2026",
     "country": "España",
     "title": "Conferencia: El Futuro del Desarrollo Web",
@@ -48,12 +48,12 @@
     "ticketUrl": "https://example.com/tickets",
     "region": "europa",
     "featured": false,
-    "is_active": true,
+    "is_active": false,
     "description": "Descubre las últimas tendencias y tecnologías que están moldeando el futuro del desarrollo web."
   },
   {
     "id": 4,
-    "city": "São Paulo",
+    "city": "ANTIOQUIA - COLOMBIA",
     "date": "Marzo 4, 2026",
     "country": "Brasil",
     "title": "Meetup: JavaScript Moderno y TypeScript",
@@ -61,12 +61,12 @@
     "ticketUrl": "https://example.com/tickets",
     "region": "latinoamerica",
     "featured": false,
-    "is_active": true,
+    "is_active": false,
     "description": "Meetup informal para discutir las últimas características de JavaScript y TypeScript."
   },
   {
     "id": 5,
-    "city": "Ciudad de México",
+    "city": "ANTIOQUIA - COLOMBIA",
     "date": "Marzo 21, 2026",
     "country": "México",
     "title": "Taller: Arquitectura de Microservicios",
@@ -79,7 +79,7 @@
   },
   {
     "id": 6,
-    "city": "Barcelona",
+    "city": "ANTIOQUIA - COLOMBIA",
     "date": "Abril 17, 2026",
     "country": "España",
     "title": "Summit: DevOps & Cloud Computing",
@@ -87,12 +87,12 @@
     "ticketUrl": "https://example.com/tickets",
     "region": "europa",
     "featured": false,
-    "is_active": true,
+    "is_active": false,
     "description": "Summit dedicado a las mejores prácticas de DevOps y computación en la nube."
   },
   {
     "id": 7,
-    "city": "Lima",
+    "city": "ANTIOQUIA - COLOMBIA",
     "date": "Mayo 7, 2026",
     "country": "Perú",
     "title": "Webinar: AI & Machine Learning para Desarrolladores",
@@ -100,12 +100,12 @@
     "ticketUrl": "https://example.com/tickets",
     "region": "latinoamerica",
     "featured": false,
-    "is_active": true,
+    "is_active": false,
     "description": "Webinar introductorio sobre inteligencia artificial y machine learning aplicado al desarrollo de software."
   },
   {
     "id": 8,
-    "city": "Buenos Aires",
+    "city": "ANTIOQUIA - COLOMBIA",
     "date": "Mayo 27, 2026",
     "country": "Argentina",
     "title": "Hackathon: Construye tu Startup en 47 Horas",
@@ -113,7 +113,7 @@
     "ticketUrl": "https://example.com/tickets",
     "region": "latinoamerica",
     "featured": false,
-    "is_active": true,
+    "is_active": false,
     "description": "Hackathon intensivo donde podrás desarrollar tu idea de startup en solo 47 horas."
   },
   {
@@ -126,7 +126,7 @@
     "ticketUrl": "https://example.com/tickets",
     "region": "europa",
     "featured": false,
-    "is_active": true,
+    "is_active": false,
     "description": "Conferencia sobre tecnologías Web2 y blockchain con enfoque práctico y accesible."
   },
   {
@@ -139,7 +139,7 @@
     "ticketUrl": "https://example.com/tickets",
     "region": "latinoamerica",
     "featured": false,
-    "is_active": true,
+    "is_active": false,
     "description": "Workshop sobre optimización de rendimiento web y mejores prácticas de desarrollo."
   },
   {
@@ -152,7 +152,7 @@
     "ticketUrl": "https://example.com/tickets",
     "region": "online",
     "featured": false,
-    "is_active": true,
+    "is_active": false,
     "description": "Masterclass online sobre el camino de crecimiento profesional desde desarrollador junior hasta senior."
   }
 ]
