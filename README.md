@@ -12,7 +12,7 @@ Welcome my portfolio
 - 🚀 **Founder / Builder of Digital Products** — [Aqui Creamos](https://aquicreamos.com)
 - 🧠 **Technical Software Architect** — focused on applying AI in projects
 - 🏗️ Designer and Developer of **applications, multi-agent systems, intelligent agents, and ML platforms** using **prompting, LLMs, ML, and DL**
-- ⚙️ Core Stack: **Python · Node.js · Go · React · Angular · Docker · Kubernetes · ML / LLMs**  
+- ⚙️ Core Stack: bk **Python · Node.js · Go · ** ft **React · Angular ** server **· Docker · aws  · azure ** AI ** Agents  · Claude  · ML  · DL  · RF **  
 - 🏃🏻‍♂️ High experience in **web applications** and **software design**
 - 🧬 Experience with **MLOps, embeddings, RAG pipelines, CI/CD, and cloud-native architectures**
 - 📐 Strong focus on **system design, scalability, observability, and reliability**  
